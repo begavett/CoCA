@@ -1,5 +1,28 @@
 # Colorado Cognitive Assessment (CoCA) Instruction and Scoring Manual
 
+## Table of Contents
+**[General Instructions and Scoring Guidelines](#general-instructions-and-scoring-guidelines)**<br>
+**[1. Prospective Memory Test](#1.-prospective-memory-test)**<br>
+**[2. Shape Trail Test](#troubleshooting)**<br>
+**[3. Verbal List Learning Test](#compatibility)**<br>
+**[4. Figure Copy](#notes-and-miscellaneous)**<br>
+**[5. Animal Fluency](#building-the-extension-bundles)**<br>
+**[6. Lexical Fluency](#next-steps)**<br>
+**[7. Test of Working Memory](#next-steps)**<br>
+**[8. Test of Focused Attention](#next-steps)**<br>
+**[9. Clock Command](#next-steps)**<br>
+**[10. Clock Copy](#next-steps)**<br>
+**[11. Similarities](#next-steps)**<br>
+**[12. Number Symbol Matching Test](#next-steps)**<br>
+**[13. Verbal Naming Test](#next-steps)**<br>
+**[14. Orientation](#next-steps)**<br>
+**[15. Verbal List Learning Delayed Recall](#next-steps)**<br>
+**[16. Verbal List Learning Yes/No Recognition](#next-steps)**<br>
+**[17. Verbal List Learning Forced Choice Recognition](#next-steps)**<br>
+**[18. Figure Delayed Recall](#next-steps)**<br>
+**[19. Prospective Memory Test Delayed Recall](#next-steps)**<br>
+**[20. Test of Functional Abilities](#20.-test-of-functional-abilities)**<br>
+
 ## General Instructions and Scoring Guidelines
 
 The CoCA is made up of 20 items. Items have a total score and various process scores. The total score is indicated on the main pages of the CoCA; total scores are added together using a CFA model to arrive at the global score of the CoCA. There is an additional supplement to assist with scoring of process variables. Process variables are not reflected in the global score of the CoCA. Specific process variables are identified for items; the examiner can use the process variables supplement to indicate the presence and number of item-specific qualitative features.
@@ -436,7 +459,7 @@ Scoring:
 •	Perseveration
 
 
-14. Orientation: 
+14. Orientation
 
 Materials Needed: None
 
@@ -498,7 +521,7 @@ Instructions: Now I am going to read you some more words. Some of these words we
 
 Scoring: See below +
 
-•	Verbal List Learning Forced Choice Recognition
+17. Verbal List Learning Forced Choice Recognition
 
 Materials Needed: None
 
@@ -559,7 +582,7 @@ Scoring:
 •	1 point if examinee states that he or she has to look at a bank statement or bank account. No points are given if examinee remembers that they have to do something else, for example, make an appointment or balance a check book.
 •	There are no process scores for this test. 
 
-20. Test of Functional Abilities 
+## 20. Test of Functional Abilities 
 
 Stimulus: Supplement 8
 
