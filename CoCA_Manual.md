@@ -26,8 +26,10 @@
 ## General Instructions and Scoring Guidelines
 
 The CoCA is made up of 20 items. Items have a total score and various process scores. The total score is indicated on the main pages of the CoCA; total scores are added together using a CFA model to arrive at the global score of the CoCA. There is an additional supplement to assist with scoring of process variables. Process variables are not reflected in the global score of the CoCA. Specific process variables are identified for items; the examiner can use the process variables supplement to indicate the presence and number of item-specific qualitative features.
+
 In general, each correct response receives one point unless otherwise specified. Items that are not scored are indicated as such in this manual and their scoring sections are greyed out on the CoCA.
 Examiners are encouraged not to affirm or respond to examinee’s responses. If the examinee makes a mistake, do not correct them, unless otherwise specified.
+
 No additional materials besides a pen and a stopwatch are needed for the CoCA. All stimulus materials needed for administration of the CoCA are available as supplemental pages. Please try and record examinee’s responses verbatim as much as possible.
 
 ## 1. Prospective Memory Test
