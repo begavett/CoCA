@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# CoCA
+The Colorado Cognitive Assessment (CoCA)
 
-You can use the [editor on GitHub](https://github.com/begavett/CoCA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The CoCA is a modern cognitive screening tool that has the following features.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Open access
+-- The CoCA is available free of charge to interested and qualified users. 
 
-### Markdown
+- Items chosen to cover a broad range of ability levels
+-- Can be responsive to detecting cognitive changes in both intact and impaired examinees without floor or ceiling effects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Broad representation of cognitive domains
+-- Allows for generation of cognitive profiles, which may provide greater utility for differential diagnosis.
 
-```markdown
-Syntax highlighted code block
+- Scoring based on confirmatory factor analysis
+-- Possesses desirable measurement properties for use in both cross-sectional and longitudinal applications.
 
-# Header 1
-## Header 2
-### Header 3
+- Able to capture processes and errors underlying performance
+-- To assist in capturing important data about the cognitive deficits and strategies that underlie observed test scores.
 
-- Bulleted
-- List
+- Embedded forced-choice recognition memory test
+-- Provides information about performance validity.
 
-1. Numbered
-2. List
+- Item assessing financial decision-making
+-- Provides a brief measure of independent functioning.
 
-**Bold** and _Italic_ and `Code` text
+- Measurement invariance
+-- To ensure minimal influence from systematic biases related to sex, education, age, and culture.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/begavett/CoCA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The CoCA Administration and Scoring Manual is available at this link. The CoCA instrument can be obtained by contacting its developers, Ashita Gurnani or Brandon Gavett. We are seeking collborators who are willing to help validate the CoCA in both clinical and healthy samples.
