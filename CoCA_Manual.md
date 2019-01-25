@@ -65,16 +65,16 @@ Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.00573
 ### Scoring
 
 - Global: 
- - Total time (seconds)/ number of correct lines
-  - Maximum number of correct lines is 7
+  - Total time (seconds)/ number of correct lines
+    - Maximum number of correct lines is 7
 - Process:
- - Sequencing error
- - Set loss error
- - Capture error
- - Visuospatial neglect
- - Visual difficulties
- - Motor difficulties/tremors
- - Losing track and starting from wrong target
+  - Sequencing error
+  - Set loss error
+  - Capture error
+  - Visuospatial neglect
+  - Visual difficulties
+  - Motor difficulties/tremors
+  - Losing track and starting from wrong target
 
 ## 3. Verbal List Learning Test
 
@@ -101,13 +101,13 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 ### Scoring
 
 - Global: 
- - 1 point for each word correctly recalled in each trial for a maximum of 21 points across all three learning trials
+  - 1 point for each word correctly recalled in each trial for a maximum of 21 points across all three learning trials
 - Process:
- - Intrusions
- - Semantic
- - Phonemic
- - Novel
- - Repetitions
+  - Intrusions
+  - Semantic
+  - Phonemic
+  - Novel
+  - Repetitions
 
 # 4. Figure Copy 
 
@@ -122,20 +122,20 @@ Supplement 2 and Stopwatch
 ## Scoring
 
 - Global: 
- - 1, 0.5, or 0 points for each accuracy component and 1 or 0 points for each placement component described below
- - Maximum of 9 points for accuracy and 9 points for placement for a total of 18 points for the test.
- - Components:
-  1. Outer rectangle
-   - Accuracy: 
-    - 0.5 pt: not accurately drawn but resembles a rectangle even if lines are wavy and not straight. Rectangle may be much smaller or larger than that of the actual figure. 
-    - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); angles formed are approximately 90 degrees; width of rectangle is obviously longer than height  
+  - 1, 0.5, or 0 points for each accuracy component and 1 or 0 points for each placement component described below
+  - Maximum of 9 points for accuracy and 9 points for placement for a total of 18 points for the test.
+  - Components:
+    1. Outer rectangle
+      - Accuracy: 
+        - 0.5 pt: not accurately drawn but resembles a rectangle even if lines are wavy and not straight. Rectangle may be much smaller or larger than that of the actual figure. 
+        - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); angles formed are approximately 90 degrees; width of rectangle is obviously longer than height  
    - Placement: reasonably close to center of blank space provided, not rotated more than 15 degrees 
-  2. Inner plus
-   - Accuracy: 
-    - 0.5 pt: not accurately drawn but resembles a plus within the rectangle even if lines are wavy, not straight, and do not bisect each other or touch the outer rectangle.
-    - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other; 
-   - Placement: lines should approximately bisect all four sides of the rectangles; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner diagonals approximately at the point of intersection of inner diagonals 
-  3. Inner diagonals
+    2. Inner plus
+      - Accuracy: 
+        - 0.5 pt: not accurately drawn but resembles a plus within the rectangle even if lines are wavy, not straight, and do not bisect each other or touch the outer rectangle.
+        - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other; 
+      - Placement: lines should approximately bisect all four sides of the rectangles; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner diagonals approximately at the point of intersection of inner diagonals 
+   3. Inner diagonals
    - Accuracy: 
     - 0.5 pt: not accurately drawn but resembles two intersecting diagonals within the rectangle even if lines are wavy, not straight, and do not intersect each other 
     - 1 pt: both lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other
