@@ -21,7 +21,7 @@
 **[17. Verbal List Learning Forced Choice Recognition](#next-steps)**<br>
 **[18. Figure Delayed Recall](#next-steps)**<br>
 **[19. Prospective Memory Test Delayed Recall](#next-steps)**<br>
-**[20. Test of Functional Abilities](#20.-test-of-functional-abilities)**<br>
+**[20. Test of Functional Abilities](#20-test-of-functional-abilities)**<br>
 
 ## General Instructions and Scoring Guidelines
 
