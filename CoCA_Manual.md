@@ -180,13 +180,13 @@ Supplement 2 and Stopwatch
     - Placement: ramparts arrangement protrudes from right lower corner of the rectangle such that it appears to be a continuation of the bottom horizontal side of the rectangle
 
 - Process:
- - Perseverations
- - Spatial errors
- - Poorly planned
- - Right to left organization
- - Neglect
- - Micrographia/motor issues/tremors
- - Accuracy/placement ratio
+  - Perseverations
+  - Spatial errors
+  - Poorly planned
+  - Right to left organization
+  - Neglect
+  - Micrographia/motor issues/tremors
+  - Accuracy/placement ratio
 
 
 5. Animal Fluency
