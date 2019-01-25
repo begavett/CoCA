@@ -2,25 +2,25 @@
 
 ## Table of Contents
 **[General Instructions and Scoring Guidelines](#general-instructions-and-scoring-guidelines)**<br>
-**[1. Prospective Memory Test](#1.-prospective-memory-test)**<br>
-**[2. Shape Trail Test](#troubleshooting)**<br>
-**[3. Verbal List Learning Test](#compatibility)**<br>
-**[4. Figure Copy](#notes-and-miscellaneous)**<br>
-**[5. Animal Fluency](#building-the-extension-bundles)**<br>
-**[6. Lexical Fluency](#next-steps)**<br>
-**[7. Test of Working Memory](#next-steps)**<br>
-**[8. Test of Focused Attention](#next-steps)**<br>
-**[9. Clock Command](#next-steps)**<br>
-**[10. Clock Copy](#next-steps)**<br>
-**[11. Similarities](#next-steps)**<br>
-**[12. Number Symbol Matching Test](#next-steps)**<br>
-**[13. Verbal Naming Test](#next-steps)**<br>
-**[14. Orientation](#next-steps)**<br>
-**[15. Verbal List Learning Delayed Recall](#next-steps)**<br>
-**[16. Verbal List Learning Yes/No Recognition](#next-steps)**<br>
-**[17. Verbal List Learning Forced Choice Recognition](#next-steps)**<br>
-**[18. Figure Delayed Recall](#next-steps)**<br>
-**[19. Prospective Memory Test Delayed Recall](#next-steps)**<br>
+**[1. Prospective Memory Test](#1-prospective-memory-test)**<br>
+**[2. Shape Trail Test](#2-shape-trail-test)**<br>
+**[3. Verbal List Learning Test](#3-verbal-list-learning-test)**<br>
+**[4. Figure Copy](#4-figure-copy)**<br>
+**[5. Animal Fluency](#5-animal-fluency)**<br>
+**[6. Lexical Fluency](#6-lexical-fluency)**<br>
+**[7. Test of Working Memory](#7-test-of-working-memory)**<br>
+**[8. Test of Focused Attention](#8-test-of-focused-attention)**<br>
+**[9. Clock Command](#9-clock-command)**<br>
+**[10. Clock Copy](#10-clock-copy)**<br>
+**[11. Similarities](#11-similarities)**<br>
+**[12. Number Symbol Matching Test](#12-number-symbol-matching-test)**<br>
+**[13. Verbal Naming Test](#13-verbal-naming-test)**<br>
+**[14. Orientation](#14-orientation)**<br>
+**[15. Verbal List Learning Delayed Recall](#15-verbal-list-learning-delayed-recall)**<br>
+**[16. Verbal List Learning Yes/No Recognition](#16-verbal-list-learning-yes-no-recognition)**<br>
+**[17. Verbal List Learning Forced Choice Recognition](#17-verbal-list-learning-forced-choice-recognition)**<br>
+**[18. Figure Delayed Recall](#18-figure-delayed-recall)**<br>
+**[19. Prospective Memory Test Delayed Recall](#19-prospective-memory-test-delayed-recall)**<br>
 **[20. Test of Functional Abilities](#20-test-of-functional-abilities)**<br>
 
 ## General Instructions and Scoring Guidelines
@@ -34,153 +34,150 @@ No additional materials besides a pen and a stopwatch are needed for the CoCA. A
 
 ## 1. Prospective Memory Test
 
-### Materials Needed: 
+### Materials Needed
 
 None
 
-### Instructions:
+### Instructions
 
-Suppose you have to look at a bank statement in a little while. Only when I say that the test is over, I want you to remind me that you have to look a bank statement.
+*Suppose you have to look at a bank statement in a little while. Only when I say that the test is over, I want you to remind me that you have to look a bank statement.*
 
-### Scoring: 
+### Scoring
 
 This item is not scored
 
 (If examinee reminds you about looking at bank statement after the shape trail test, restate instructions and emphasize that the reminder only has to occur when the examiner states that the test is over.)
 
-## 2. Shape Trail Test (Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.0057333))
+## 2. Shape Trail Test
 
-### Materials Needed: 
+Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.0057333)
 
-[Supplement 2](Supplements/Supplement2.pdf) and Stopwatch
+### Materials Needed
 
-### Instructions: 
+[Supplement 1](Supplements/Supplement1.pdf) and Stopwatch
+
+### Instructions
 
 *Here (point to stimulus), you see numbers in circles and squares. I want you to draw a line from 1 in the square to the 2 in the circle to the 3 in the square (keep pointing) and just like that alternating between square and circle in ascending order of the numbers till you reach the end here (point). You will have two minutes. Ready? Go!*
 
-![Shape Trail Test](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Shape Trail Test](Images/STT.png "Shape Trail Test")
 
-### Scoring:
+### Scoring
 
 - Global: 
-  - Total time (seconds)/ no of correct lines – maximum number of correct lines is 7
+ - Total time (seconds)/ number of correct lines
+  - Maximum number of correct lines is 7
 - Process:
-  - Sequencing error
-  - Set loss error
-  - Capture error
-  - Visuospatial neglect
-  - Visual difficulties
-  - Motor difficulties/tremors
-  - Losing track and starting from wrong target
+ - Sequencing error
+ - Set loss error
+ - Capture error
+ - Visuospatial neglect
+ - Visual difficulties
+ - Motor difficulties/tremors
+ - Losing track and starting from wrong target
 
 ## 3. Verbal List Learning Test
 
-Materials Needed: None. 
+### Materials Needed
 
-Instructions: I am going to read you a list of words. When I am done, I want you to tell me all the words you remember, in any order. Ready? (read list at 1 word per second). Now, tell me all the words you remember.
+None. 
 
-Repeat twice: I am going to read you the same list of words one more time. When I am done, tell me all the words you remember, including the ones you have already told me before. You can tell me the words in any order. 
+###Instructions
 
-•	Car 
-•	River 
-•	Market 
-•	Desk 
-•	Foot 
-•	Square
-•	Teacher 
-At the end of the test: Try and keep these words in mind because you may be asked about them at the end of the test.
+*I am going to read you a list of words. When I am done, I want you to tell me all the words you remember, in any order. Ready? (read list at 1 word per second). Now, tell me all the words you remember.*
 
-Scoring: 
-•	Global: 
-•	1 point for each word correctly recalled in each trial for a maximum of 21 points across all three learning trials
-•	Process:
-•	Intrusions
-•	Semantic
-•	Phonemic
-•	Novel
-•	Repetitions
+Repeat twice: *I am going to read you the same list of words one more time. When I am done, tell me all the words you remember, including the ones you have already told me before. You can tell me the words in any order.*
 
+- Car 
+- River 
+- Market 
+- Desk 
+- Foot 
+- Square
+- Teacher 
 
-4. Figure Copy 
+At the end of the test: *Try and keep these words in mind because you may be asked about them at the end of the test.*
 
-Materials Needed: Supplement 3 and Stopwatch
+### Scoring
 
-Instructions: I want you to copy this figure as accurately as you can in the space below. You will have two minutes. Ready? Go!
+- Global: 
+ - 1 point for each word correctly recalled in each trial for a maximum of 21 points across all three learning trials
+- Process:
+ - Intrusions
+ - Semantic
+ - Phonemic
+ - Novel
+ - Repetitions
 
+# 4. Figure Copy 
 
+## Materials Needed
 
+Supplement 2 and Stopwatch
 
+## Instructions
 
+*I want you to copy this figure as accurately as you can in the space below. You will have two minutes. Ready? Go!*
 
+## Scoring
 
-
-
-
-
-
-
-
-
-Scoring: 
-•	Global: 
-•	1 point or half point for each accuracy component and one point for each placement component described below
-•	Maximum of 9 points for accuracy and 9 points for placement for a total of 18 points for the test.
-•	Process:
-
-Components:
-•	Outer rectangle
-•	Accuracy: 
-0.5 pt: not accurately drawn but resembles a rectangle even if lines are wavy and not straight. Rectangle may be much smaller or larger than that of the actual figure. 
-1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); angles formed are approximately 90 degrees; width of rectangle is obviously longer than height  
-•	Placement: reasonably close to center of blank space provided, not rotated more than 15 degrees 
-•	Inner plus
-•	Accuracy: 
-0.5 pt: not accurately drawn but resembles a plus within the rectangle even if lines are wavy, not straight, and do not bisect each other or touch the outer rectangle.
-1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other; 
-•	Placement: lines should approximately bisect all four sides of the rectangles; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner diagonals approximately at the point of intersection of inner diagonals 
-•	Inner diagonals
-•	Accuracy: 
-0.5 pt: not accurately drawn but resembles two intersecting diagonals within the rectangle even if lines are wavy, not straight, and do not intersect each other 
-1 pt: both lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other
-•	Placement: ends of lines should meet corners of the rectangle without significant overlap or measurable distance between the ends of the lines and corners; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner plus approximately at the point of intersection of inner plus 
-•	Concentric rectangles
-•	Accuracy: 
-0.5 pt: not accurately drawn but resembles a single or concentric (with three or four lines) rectangles even if lines are wavy, not straight, and touch each other.
-1 pt: three concentric rectangles with lines that do not touch each other; the three rectangles decrease in size by approximately the same amount; horizontal sides of rectangles are obviously longer than vertical sides; lines are continuous or only have only slight waves and/or breaks; the size of the largest concentric rectangle is proportionate to the size of the outer rectangle (height and width do not exceed 50% of height and width of outer rectangle).
-•	Placement: placed above the outer rectangle on the left side; the base of the concentric rectangles touches the top left horizontal segment of the outer rectangle; not rotated more than 15 degrees. The right vertical segment of the inner concentric rectangle is roughly aligned with the right edge of the inner triangle.
-•	Hoops
-•	Accuracy: 
-0.5 pt: not accurately drawn but resembles any number of vertical semicircles of varying sizes (looping allowed) that do not continue beyond the bottom of the left hand corner
-1 pt: Approximately nine (±2) small vertical semicircles that overlap with each other; semicircles are relatively equal in size; touch the left lower vertical side of the rectangle. Should be drawn separately rather than in a continuous motion (i.e., no looping on the side closest to the outer rectangle). Hoops do not continue beyond the bottom left hand corner.
-•	Placement: placed on the outside of left vertical side of the rectangle; hoops are placed from the point of horizontal bisection of the height of the outer rectangle to the base of the rectangle
-•	Inner triangle
-•	Accuracy: 
-0.5 pt: resembles a triangle of any size; any figure resembling a triangle (even if without third side)
-1 pt: angle formed by three sides of triangle are all less than 90 degrees; sides are approximately straight (slight waves and breaks are acceptable)
-•	Placement: vertical side of triangle touches or almost touches left inner top and bottom diagonals; vertex of triangle touches or almost touches the point of bisection of the left vertical side of rectangle
-•	Inner vertical lines
-•	Accuracy:
-0.5 pt: Three vertical lines are present, even if they are of varying lengths and do not decrease progressively in length
-1 pt: three vertical lines are continuous and straight (slight waves and breaks are acceptable); the three lines visibly decrease in length from left to right; spacing between lines is roughly equal and is proportionate to the figure
-•	Placement: in appropriate segment (upper half of top right quadrant); touching the top right horizontal side of the outer rectangle and the right upper diagonal
-•	Inner circles
-•	Accuracy: 
-0.5 pt: five dots or circle that are present in an obvious arrangement (does not have to match arrangement in figure) that do not touch each other or any other part of the figure
-1 pt: five circles that are round and closed (filled dots are not acceptable); are continuous and any breaks are only due to mild sloppiness; circles roughly equal size; in the depicted arrangement and not rotated more than 15 degrees; not touching each other or any other part of the figure
-•	Placement: in appropriate segment (upper half of bottom right quadrant)
-•	Ramparts
-•	Accuracy: 
-0.5: an arrangement of any number of figures that do not have look like Ms and triangles; the arrangement may be sloppy/messy looking
-1 pt: three Ms and three right angled triangles (with unclosed bases) in a horizontal arrangement; Ms and triangles are arranged in an alternating manner; Ms and triangles are connected to each other by short horizontal lines; Ms and triangles are equal in height; all Ms are roughly equal in width; all triangles are roughly equal in width. Height of ramparts arrangement does not exceed 25% of length of the right vertical side of the outer rectangle.
-•	Placement: ramparts arrangement protrudes from right lower corner of the rectangle such that it appears to be a continuation of the bottom horizontal side of the rectangle
-•	Process:
-•	Perseverations
-•	Spatial errors
-•	Poorly planned
-•	Right to left organization
-•	Neglect
-•	Micrographia/motor issues/tremors
-•	Accuracy/placement ratio
+- Global: 
+ - 1, 0.5, or 0 points for each accuracy component and 1 or 0 points for each placement component described below
+ - Maximum of 9 points for accuracy and 9 points for placement for a total of 18 points for the test.
+ - Components:
+  1. Outer rectangle
+   - Accuracy: 
+    - 0.5 pt: not accurately drawn but resembles a rectangle even if lines are wavy and not straight. Rectangle may be much smaller or larger than that of the actual figure. 
+    - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); angles formed are approximately 90 degrees; width of rectangle is obviously longer than height  
+   - Placement: reasonably close to center of blank space provided, not rotated more than 15 degrees 
+  2. Inner plus
+   - Accuracy: 
+    - 0.5 pt: not accurately drawn but resembles a plus within the rectangle even if lines are wavy, not straight, and do not bisect each other or touch the outer rectangle.
+    - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other; 
+   - Placement: lines should approximately bisect all four sides of the rectangles; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner diagonals approximately at the point of intersection of inner diagonals 
+  3. Inner diagonals
+   - Accuracy: 
+    - 0.5 pt: not accurately drawn but resembles two intersecting diagonals within the rectangle even if lines are wavy, not straight, and do not intersect each other 
+    - 1 pt: both lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other
+   - Placement: ends of lines should meet corners of the rectangle without significant overlap or measurable distance between the ends of the lines and corners; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner plus approximately at the point of intersection of inner plus 
+  4. Concentric rectangles
+   - Accuracy: 
+    - 0.5 pt: not accurately drawn but resembles a single or concentric (with three or four lines) rectangles even if lines are wavy, not straight, and touch each other.
+    - 1 pt: three concentric rectangles with lines that do not touch each other; the three rectangles decrease in size by approximately the same amount; horizontal sides of rectangles are obviously longer than vertical sides; lines are continuous or only have only slight waves and/or breaks; the size of the largest concentric rectangle is proportionate to the size of the outer rectangle (height and width do not exceed 50% of height and width of outer rectangle).
+   - Placement: placed above the outer rectangle on the left side; the base of the concentric rectangles touches the top left horizontal segment of the outer rectangle; not rotated more than 15 degrees. The right vertical segment of the inner concentric rectangle is roughly aligned with the right edge of the inner triangle.
+  5. Hoops
+   - Accuracy: 
+    - 0.5 pt: not accurately drawn but resembles any number of vertical semicircles of varying sizes (looping allowed) that do not continue beyond the bottom of the left hand corner
+    - 1 pt: Approximately nine (±2) small vertical semicircles that overlap with each other; semicircles are relatively equal in size; touch the left lower vertical side of the rectangle. Should be drawn separately rather than in a continuous motion (i.e., no looping on the side closest to the outer rectangle). Hoops do not continue beyond the bottom left hand corner.
+   - Placement: placed on the outside of left vertical side of the rectangle; hoops are placed from the point of horizontal bisection of the height of the outer rectangle to the base of the rectangle
+  6. Inner triangle
+   - Accuracy: 
+    - 0.5 pt: resembles a triangle of any size; any figure resembling a triangle (even if without third side)
+    - 1 pt: angle formed by three sides of triangle are all less than 90 degrees; sides are approximately straight (slight waves and breaks are acceptable)
+   - Placement: vertical side of triangle touches or almost touches left inner top and bottom diagonals; vertex of triangle touches or almost touches the point of bisection of the left vertical side of rectangle
+  7. Inner vertical lines
+   - Accuracy:
+    - 0.5 pt: Three vertical lines are present, even if they are of varying lengths and do not decrease progressively in length
+    - 1 pt: three vertical lines are continuous and straight (slight waves and breaks are acceptable); the three lines visibly decrease in length from left to right; spacing between lines is roughly equal and is proportionate to the figure
+   - Placement: in appropriate segment (upper half of top right quadrant); touching the top right horizontal side of the outer rectangle and the right upper diagonal
+  8. Inner circles
+   - Accuracy: 
+    - 0.5 pt: five dots or circle that are present in an obvious arrangement (does not have to match arrangement in figure) that do not touch each other or any other part of the figure
+    - 1 pt: five circles that are round and closed (filled dots are not acceptable); are continuous and any breaks are only due to mild sloppiness; circles roughly equal size; in the depicted arrangement and not rotated more than 15 degrees; not touching each other or any other part of the figure
+   - Placement: in appropriate segment (upper half of bottom right quadrant)
+  9. Ramparts
+   - Accuracy: 
+    - 0.5: an arrangement of any number of figures that do not have look like Ms and triangles; the arrangement may be sloppy/messy looking
+    - 1 pt: three Ms and three right angled triangles (with unclosed bases) in a horizontal arrangement; Ms and triangles are arranged in an alternating manner; Ms and triangles are connected to each other by short horizontal lines; Ms and triangles are equal in height; all Ms are roughly equal in width; all triangles are roughly equal in width. Height of ramparts arrangement does not exceed 25% of length of the right vertical side of the outer rectangle.
+   - Placement: ramparts arrangement protrudes from right lower corner of the rectangle such that it appears to be a continuation of the bottom horizontal side of the rectangle
+- Process:
+ - Perseverations
+ - Spatial errors
+ - Poorly planned
+ - Right to left organization
+ - Neglect
+ - Micrographia/motor issues/tremors
+ - Accuracy/placement ratio
 
 
 5. Animal Fluency
