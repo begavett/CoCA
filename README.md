@@ -1,5 +1,4 @@
-# CoCA
-The Colorado Cognitive Assessment (CoCA)
+# The Colorado Cognitive Assessment (CoCA)
 
 The CoCA is a modern cognitive screening tool that has the following features.
 
