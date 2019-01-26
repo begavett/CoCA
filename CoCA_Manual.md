@@ -379,7 +379,7 @@ Test
   - 0 = for no similarity or pointing out differences
   - 1 = concrete response
   - 2 = abstract response
-- Process ((Giovannetti et al., 2001))[https://doi.org/10.1093/arclin/16.6.547]
+- Process [(Giovannetti et al., 2001)](https://doi.org/10.1093/arclin/16.6.547)
   - In set errors
     - Vague response: provision of a superordinate, but superficial categorical response (e.g., dog – lion: ‘‘they eat’’)
     - Subordinate response: provision of responses that relate to shared concrete traits (e.g., orange - banana: they have skin) or specific properties about the items that may not be correct in all instances (e.g., boat-car: they have motors)
