@@ -23,6 +23,7 @@
 **[19. Prospective Memory Test Delayed Recall](#19-prospective-memory-test-delayed-recall)**<br>
 **[20. Test of Functional Abilities](#20-test-of-functional-abilities)**<br>
 **[Scoring](#scoring-17)**<br>
+**[License](#license)**<br>
 
 ## General Instructions and Scoring Guidelines
 
@@ -696,6 +697,8 @@ https://neuropsych.shinyapps.io/CoCA/.
 ## Process-Based
 
 Coding of errors, process variables, and behavioral observations can be facilitated with [Supplement 9](Supplements/Supplement9.pdf).
+
+# License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The Colorado Cognitive Assessment is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 Copyright (C) 2019 Ashita Gurnani and Brandon Gavett
