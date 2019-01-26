@@ -59,7 +59,7 @@ Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.00573
 
 ### Instructions
 
-*Here (point to stimulus), you see numbers in circles and squares. I want you to draw a line from 1 in the square to the 2 in the circle to the 3 in the square (keep pointing) and just like that alternating between square and circle in ascending order of the numbers till you reach the end here (point). You will have two minutes. Ready? Go!*
+*Here* (point to stimulus), *you see numbers in circles and squares. I want you to draw a line from 1 in the square to the 2 in the circle to the 3 in the square* (keep pointing) *and just like that alternating between square and circle in ascending order of the numbers till you reach the end here* (point). *You will have two minutes. Ready? Go!*
 
 ![Shape Trail Test](Images/STT.png "Shape Trail Test")
 
@@ -86,7 +86,7 @@ None.
 
 ### Instructions
 
-*I am going to read you a list of words. When I am done, I want you to tell me all the words you remember, in any order. Ready? (read list at 1 word per second). Now, tell me all the words you remember.*
+*I am going to read you a list of words. When I am done, I want you to tell me all the words you remember, in any order. Ready?* (read list at 1 word per second). *Now, tell me all the words you remember.*
 
 Repeat twice: *I am going to read you the same list of words one more time. When I am done, tell me all the words you remember, including the ones you have already told me before. You can tell me the words in any order.*
 
@@ -236,7 +236,7 @@ None.
 
 ## Instructions
 
-*I am going to read you some numbers and letters. When I am done, I want you tell me all the numbers, in the reverse order of their presentation. Lets start with a sample (read one letter/digit per second):*
+*I am going to read you some numbers and letters. When I am done, I want you tell me all the numbers, in the reverse order of their presentation. Lets start with a sample* (read one letter/digit per second):
 
 - Sample: 5Q0L3 (Answer: 305)
 
