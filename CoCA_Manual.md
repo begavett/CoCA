@@ -131,55 +131,56 @@ Supplement 2 and Stopwatch
         - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); angles formed are approximately 90 degrees; width of rectangle is obviously longer than height  
    - Placement: reasonably close to center of blank space provided, not rotated more than 15 degrees 
 
-
+<br>
   2. Inner plus
     - Accuracy:
       - 0.5 pt: not accurately drawn but resembles a plus within the rectangle even if lines are wavy, not straight, and do not bisect each other or touch the outer rectangle.
       - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other; 
     - Placement: lines should approximately bisect all four sides of the rectangles; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner diagonals approximately at the point of intersection of inner diagonals 
 
-
+<br>
   3. Inner diagonals
     - Accuracy:
       - 0.5 pt: not accurately drawn but resembles two intersecting diagonals within the rectangle even if lines are wavy, not straight, and do not intersect each other 
       - 1 pt: both lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other
     - Placement: ends of lines should meet corners of the rectangle without significant overlap or measurable distance between the ends of the lines and corners; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner plus approximately at the point of intersection of inner plus 
 
-
+<br>
   4. Concentric rectangles
     - Accuracy:
       - 0.5 pt: not accurately drawn but resembles a single or concentric (with three or four lines) rectangles even if lines are wavy, not straight, and touch each other.
       - 1 pt: three concentric rectangles with lines that do not touch each other; the three rectangles decrease in size by approximately the same amount; horizontal sides of rectangles are obviously longer than vertical sides; lines are continuous or only have only slight waves and/or breaks; the size of the largest concentric rectangle is proportionate to the size of the outer rectangle (height and width do not exceed 50% of height and width of outer rectangle).
     - Placement: placed above the outer rectangle on the left side; the base of the concentric rectangles touches the top left horizontal segment of the outer rectangle; not rotated more than 15 degrees. The right vertical segment of the inner concentric rectangle is roughly aligned with the right edge of the inner triangle.
 
+<br>
   5. Hoops
     - Accuracy:
       - 0.5 pt: not accurately drawn but resembles any number of vertical semicircles of varying sizes (looping allowed) that do not continue beyond the bottom of the left hand corner
       - 1 pt: Approximately nine (±2) small vertical semicircles that overlap with each other; semicircles are relatively equal in size; touch the left lower vertical side of the rectangle. Should be drawn separately rather than in a continuous motion (i.e., no looping on the side closest to the outer rectangle). Hoops do not continue beyond the bottom left hand corner.
     - Placement: placed on the outside of left vertical side of the rectangle; hoops are placed from the point of horizontal bisection of the height of the outer rectangle to the base of the rectangle
 
-
+<br>
   6. Inner triangle
     - Accuracy:
       - 0.5 pt: resembles a triangle of any size; any figure resembling a triangle (even if without third side)
       -  pt: angle formed by three sides of triangle are all less than 90 degrees; sides are approximately straight (slight waves and breaks are acceptable)
     - Placement: vertical side of triangle touches or almost touches left inner top and bottom diagonals; vertex of triangle touches or almost touches the point of bisection of the left vertical side of rectangle
 
-
+<br>
   7. Inner vertical lines
     - Accuracy:
       - 0.5 pt: Three vertical lines are present, even if they are of varying lengths and do not decrease progressively in length
       - 1 pt: three vertical lines are continuous and straight (slight waves and breaks are acceptable); the three lines visibly decrease in length from left to right; spacing between lines is roughly equal and is proportionate to the figure
     - Placement: in appropriate segment (upper half of top right quadrant); touching the top right horizontal side of the outer rectangle and the right upper diagonal
 
-
+<br>
   8. Inner circles
     - Accuracy:
       - 0.5 pt: five dots or circle that are present in an obvious arrangement (does not have to match arrangement in figure) that do not touch each other or any other part of the figure
       - 1 pt: five circles that are round and closed (filled dots are not acceptable); are continuous and any breaks are only due to mild sloppiness; circles roughly equal size; in the depicted arrangement and not rotated more than 15 degrees; not touching each other or any other part of the figure
     - Placement: in appropriate segment (upper half of bottom right quadrant)
 
-
+<br>
   9. Ramparts
     - Accuracy:
       - 0.5: an arrangement of any number of figures that do not have look like Ms and triangles; the arrangement may be sloppy/messy looking
