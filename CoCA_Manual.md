@@ -42,7 +42,7 @@ None
 
 ### Instructions
 
-*Suppose you have to look at a bank statement in a little while. Only when I say that the test is over, I want you to remind me that you have to look a bank statement.*
+*Suppose you have to look at a bank statement in a little while. When I say that the test is over, I want you to remind me that you have to look a bank statement.*
 
 ### Scoring
 
