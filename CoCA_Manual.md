@@ -54,7 +54,7 @@ Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.00573
 
 ### Materials Needed
 
-[Supplement 1](Supplements/Supplement1.pdf) and Stopwatch
+[Supplement 1](Supplements/Supplement1.pdf) and stopwatch
 
 ### Instructions
 
@@ -113,7 +113,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 
 ## Materials Needed
 
-Supplement 2 and Stopwatch
+[Supplement 2](Supplements/Supplement2.pdf) and stopwatch
 
 ## Instructions
 
@@ -181,330 +181,369 @@ Supplement 2 and Stopwatch
   - Accuracy/placement ratio
 
 
-5. Animal Fluency
+# 5. Animal Fluency
 
-Materials Needed: Supplement 3 and Stopwatch
+## Materials Needed
 
-Instructions: Now, I am going to give you one minute to name as many animals as you can. Ready? Go! 
+[Supplement 3](Supplements/Supplement3.pdf) and stopwatch
 
-Scoring: 
-•	Global:
-•	1 point for each correctly generated word
-•	Process: 
-•	Number of words produced every 15 seconds (Epochs 15, 30, 35, and 60)
-•	Perseveration
-•	Intrusions
-•	Self correction
-•	Percent set loss
-•	Percent perseveration
-•	Semantic index = animal/(animal + letter)
-6. Lexical Fluency 
+## Instructions
 
-Materials Needed: Supplement 3 and Stopwatch
+*Now, I am going to give you one minute to name as many animals as you can. Ready? Go!*
 
-Instructions: Now, we are going to do something a little different. I am going to give you one minute to name as many words as you can think of that belong to a particular letter of the alphabet that I will tell you in a moment. You can say any kind of word you like except for proper nouns (like Bob or Boston), numbers, or words that the have the same beginning but different endings (like play, player, playing). Ok, now you have one minute to name as many words as you can think of that begin with the letter “S”
+## Scoring
 
-Scoring: 
-•	Global:
-•	1 point for each correctly generated word
-•	Process: 
-•	Number of words produced every 15 seconds (Epochs 15, 30, 35, and 60)
-•	Perseveration
-•	Intrusions
-•	Self correction
-•	Percent set loss
-•	Percent perseveration
-•	Rule violations
+- Global:
+  - 1 point for each correctly generated word
+- Process: 
+  - Number of words produced every 15 seconds (Epochs 15, 30, 35, and 60)
+  - Perseveration
+  - Intrusions
+  - Self correction
+  - Percent set loss
+  - Percent perseveration
+  - Semantic index = animal/(animal + letter)
 
+# 6. Lexical Fluency 
 
-7. Test of Working Memory
+## Materials Needed
 
-Materials Needed: None.
+[Supplement 3](Supplements/Supplement3.pdf) and stopwatch
 
-Instructions: I am going to read you some numbers and letters. When I am done, I want you tell me all the numbers, in the reverse order of their presentation. Lets start with a sample (read one letter/digit per second): 
+## Instructions
 
-•	Sample: 5Q0L3 (Answer: 305)
+*Now, we are going to do something a little different. I am going to give you one minute to name as many words as you can think of that belong to a particular letter of the alphabet that I will tell you in a moment. You can say any kind of word you like except for proper nouns (like Bob or Boston), numbers, or words that the have the same beginning but different endings (like play, player, playing). Ok, now you have one minute to name as many words as you can think of that begin with the letter “S”*
+
+## Scoring
+- Global:
+  - 1 point for each correctly generated word
+- Process: 
+  - Number of words produced every 15 seconds (Epochs 15, 30, 35, and 60)
+  - Perseveration
+  - Intrusions
+  - Self correction
+  - Percent set loss
+  - Percent perseveration
+  - Rule violations
+
+# 7. Test of Working Memory
+
+## Materials Needed 
+
+None.
+
+## Instructions
+
+*I am going to read you some numbers and letters. When I am done, I want you tell me all the numbers, in the reverse order of their presentation. Lets start with a sample (read one letter/digit per second):*
+
+- Sample: 5Q0L3 (Answer: 305)
 
 If correct, move on to the test items.
+
 If incorrect, say - I said 5Q0L3; the order of the presented numbers was 503, so backwards it would be 305. Understood? Ok, I am going to move on to the test item.
 
-•	Trial 1: 2F7CS9N (Answer: 972)
-•	Trial 2: 3TS7V0BK1Y6U (Answer: 61073)
+- Trial 1: 2F7CS9N (Answer: 972)
+- Trial 2: 3TS7V0BK1Y6U (Answer: 61073)
 
-Scoring: 
-•	Global:
-•	0.5 pt for correct digit
-•	0.5 pt for correct order of digit
-o	Maximum of 3 points on Trial 1 and 5 points on Trial 2
-o	The addition of a number at the end of a sequence, for example, 9720 instead of 972, results in a total score of 2.5, with credit given for the three correct digits (9,7, & 2) and credit given for the correct order of 9 and 7. In this case, credit is not given for the correct order of 2
-o	The addition of an incorrect number in the sequence, for example, 9702 instead of 972, results in a total score of 2.5, with credit given for the three correct digits (9,7, & 2) and credit given for the correct order of 9 and 7. In this case, credit is not given for the correct order of 2
+## Scoring
 
-•	Process: 
-•	Omissions
-•	Additions/commissions
-•	Perseverative error
-•	Set loss errors
+- Global:
+  - 0.5 pt for correct digit
+  - 0.5 pt for correct order of digit
+  - Maximum of 3 points on Trial 1 and 5 points on Trial 2
+  - The addition of a number at the end of a sequence, for example, 9720 instead of 972, results in a total score of 2.5, with credit given for the three correct digits (9,7, & 2) and credit given for the correct order of 9 and 7. In this case, credit is not given for the correct order of 2
+  - The addition of an incorrect number in the sequence, for example, 9702 instead of 972, results in a total score of 2.5, with credit given for the three correct digits (9,7, & 2) and credit given for the correct order of 9 and 7. In this case, credit is not given for the correct order of 2
+- Process: 
+  - Omissions
+  - Additions/commissions
+  - Perseverative error
+  - Set loss errors
 
-8. Test of Focused Attention 
+# 8. Test of Focused Attention 
 
-Materials Needed: None
+## Materials Needed
 
-Instructions: I am going to read you a list of words. When I say eyes, you say see. When I say nose, you say smell. If I say a different word, do not say anything. Understand? Ready?(Read words below in order at the rate of 1 word/second).
+Optional: standardized audio recording of stimulus. Alternatively, examiners can read the stimulus to the examinee.
+
+(Audio Recording)[Supplements/TFA_Audio.mp3]
+
+## Instructions
+
+*I am going to read you a list of words. When I say eyes, you say see. When I say nose, you say smell. If I say a different word, do not say anything. Understand? Ready?* (Read words below in order at the rate of 1 word/second).
 
 Eyes; aisle; note; iron; nose; small; eyes; seat; note; nose; hose; nod; aisle; eyes; seat; nod; nose; eyes; aisle; nose; small; eyes; nod; iron; note; eyes; seat; lies; nose; aisle; iron; note; lies; nose; small; hose; eyes; nose; aisle; lies; hose; note
 
-* If the participant forgets instructions during the task, remind once quickly, but keep going with the task and do not restart the task. 
+If the participant forgets instructions during the task, remind once quickly, but keep going with the task and do not restart the task. 
 
-Scoring:
-•	Global: 
-•	1 point for every correct response including not responding when appropriate (for example, not responding when the examiner says aisle), for a maximum of 42 points
-•	If an examinee makes an error and then self corrects, do not give credit for the correct. Instead, count the error and make a note of the number of self-corrects.
+## Scoring
 
-•	Process
-•	Omissions
-•	Additions/commissions
-•	Set loss errors
-•	Perseverative errors
+- Global: 
+  - 1 point for every correct response including not responding when appropriate (for example, not responding when the examiner says aisle), for a maximum of 42 points
+  - If an examinee makes an error and then self corrects, do not give credit for the self-correction. Instead, count the error and make a note of the number of self-corrects.
 
+- Process
+  - Omissions
+  - Additions/commissions
+  - Set loss errors
+  - Perseverative errors
 
+# 9. Clock Command 
 
-9.  Clock Command 
+## Materials Needed
 
-Materials Needed: Supplement 4 and Stopwatch 
+(Supplement 4)[Supplements/Supplement4.pdf]
 
-Instructions:  I want you to draw the face of a clock with all the numbers in it and have the time showing ten past 11. 
+## Instructions
 
-Scoring: see below*
+*I want you to draw the face of a clock with all the numbers in it and have the time showing ten after 11.*
 
-10. Clock Copy
+Scoring: see below
 
-Materials Needed: Supplement 5 and Stopwatch 
+# 10. Clock Copy
 
-Instructions: Now, I want you to copy this clock as accurately as possible in the space below.  
+## Materials Needed
 
-*Scoring for clock copy and command: 
-•	Global: Use scoring system below (Rouleau et al., 1992), for a maximum of 10 points for each (command and copy)
+(Supplement 5)[Supplements/Supplement5.pdf]
 
-Scoring System for Clock Drawing Command and Copy
+## Instructions
 
-•	Integrity of the clock face (maximum: 2 points)
-2: Present without gross distortion
-1: Incomplete or some distortion
-0: Absent or totally inappropriate
+*Now, I want you to copy this clock as accurately as possible in the space below.*
 
-•	Presence and sequencing of the numbers (maximum: 4 points)
-4: All present in the right order and at most minimal error in the spatial arrangement
-3: All present but errors in spatial arrangement
-2: Numbers missing or added but no gross distortions of the remaining numbers; numbers placed in counterclockwise direction; numbers all present but gross distortion in spatial layout (i.e., hemineglect, numbers
-outside the clock)
-1: Missing or added
-0: Absence or poor representation of numbers
-•	Presence and placement of the hands (maximum: 4 points)
-4: Hands are in correct position and the size difference is respected.
-3: Slight errors in the placement of the hands or no representation of size difference between the hands.
-2: Major errors in the placement of the hands (significantly out of course including 10 to 11)
-1: Only one hand or poor representation of two hands
-0: No hands or perseveration on hands
+## Scoring for Clock Copy and Command
 
+- Global: Use scoring system below ((Rouleau et al., 1992))[http://dx.doi.org/10.1016/0278-2626(92)90112-Y], for a maximum of 10 points for each (command and copy)
+  - Integrity of the clock face (maximum: 2 points)
+    - 2: Present without gross distortion
+    - 1: Incomplete or some distortion
+    - 0: Absent or totally inappropriate
+  - Presence and sequencing of the numbers (maximum: 4 points)
+    - 4: All present in the right order and at most minimal error in the spatial arrangement
+    - 3: All present but errors in spatial arrangement
+    - 2: Numbers missing or added but no gross distortions of the remaining numbers; numbers placed in counterclockwise direction; numbers all present but gross distortion in spatial layout (i.e., hemineglect, numbers outside the clock)
+    - 1: Missing or added
+    - 0: Absence or poor representation of numbers
+  - Presence and placement of the hands (maximum: 4 points)
+    - 4: Hands are in correct position and the size difference is respected.
+    - 3: Slight errors in the placement of the hands or no representation of size difference between the hands.
+    - 2: Major errors in the placement of the hands (significantly out of course including 10 to 11)
+    - 1: Only one hand or poor representation of two hands
+    - 0: No hands or perseveration on hands
+- Process:
+  - Size of clock: small if its measures less than 1.5 inches and large if it measures more than 5 inches
+  - Graphical errors: lines are not precise resulting in distortions of the clock face or making the numbers difficult to read. The hands are not straight and sometimes fail to connect in the middle. The overall performance appears inaccurate and clumsy. 
+  - Stimulus-bound errors: hands are set for 10 to 11 instead of 10 past 11; time is written in numbers/letters besides 10 and/or 11 or between 10 and 11; hands are either absent or pointed to 10 and/or 11.
+  - Conceptual errors: clock face without numbers or inappropriate use of numbers; time is misrepresented on the clock either by writing it on the clockface or the hands are absent or inadequately represented
+  - Spatial/planning deficits: neglect of the left hemisphere; planning difficulties with inappropriate gap before 12 or 3, 6, or 9; disorganization in the layout of the numbers, numbers written outside the clockface, numbers written counter clockwise
+  - Perseveration: presence of more than 2 hands; ongoing tracing of hands; ongoing prolongation of numbers; repetition of numbers
+  - Neglect
+  - Rotated paper while placing numerals/numeral substitutes
+  - Attempt to self-correct significant error
+  - Requested reminder of time for hand-setting
+  - Copy to command ratio
 
-•	Process:
-•	Size of clock: small if its measures less than 1.5 inches and large if it measures more than 5 inches
-•	Graphical errors: lines are not precise resulting in distortions of the clock face or making the numbers difficult to read. The hands are not straight and sometimes fail to connect in the middle. The overall performance appears inaccurate and clumsy. 
-•	Stimulus-bound errors: hands are set for 10 to 11 instead of 10 past 11; time is written in numbers/letters besides 10 and/or 11 or between 10 and 11; hands are either absent or pointed to 10 and/or 11.
-•	Conceptual errors: clock face without numbers or inappropriate use of numbers; time is misrepresented on the clock either by writing it on the clockface or the hands are absent or inadequately represented
-•	Spatial/planning deficits: neglect of the left hemisphere; planning difficulties with inappropriate gap before 12 or 3, 6, or 9; disorganization in the layout of the numbers, numbers written outside the clockface, numbers written counter clockwise
-•	Perseveration: presence of more than 2 hands; ongoing tracing of hands; ongoing prolongation of numbers; repetition of numbers
-•	Neglect
-•	Rotated paper while placing numerals/numeral substitutes
-•	Attempt to self-correct significant error
-•	Requested reminder of time for hand-setting
-•	Copy to command ratio
+# 11. Similarities 
 
+## Materials Needed
 
-11. Similarities 
+None
 
-Materials Needed: None
+## Instructions
 
-Instructions: Now I am going to ask you some questions about how two things are alike. (Read sample item below)
+*Now I am going to ask you some questions about how two things are alike.* (Read sample item below)
 
- Sample: 
-•	How are a potato and an onion alike? 
+Sample: 
+
+How are a potato and an onion alike? 
 
 Answer: vegetables. 
-If correct, say: yes, they are vegetables (Move on to test items)
-No answer or incorrect answer: Can you think of another way in which they are alike? They are vegetables.
 
-Test: 
-1.	How are television and radio alike? 
-o	2 point: modes of entertainment/information/communication/media
-o	1 point: electric/electrical; play/give out/broadcast signals, sound, news, or music; receive/transmit signals electronically 
-o	0 point: send words/visions
-2.	How are tall and short alike? 
-o	2 point: ways of describing height/size/measurement/length/persons stature
-o	1 point: variations/opposites of a dimension/scale
-o	0 point: not alike; opposites; antonyms; descriptors; adjectives
+If correct, say: *Yes, they are vegetables* (Move on to test items)
 
-Scoring:
-•	Global:
-•	0 = for no similarity or pointing out differences
-•	1 = concrete response
-•	2 = abstract response
-•	Process (Giovanetti et al., 2001):
-•	In set errors: 
-•	Vague response: provision of a superordinate, but superficial categorical response (e.g., dog – lion: ‘‘they eat’’)
-•	Subordinate response: provision of responses that relate to shared concrete traits (e.g., orange - banana: they have skin) or specific properties about the items that may not be correct in all instances (e.g., boat-car: they have motors)
-•	Out of set errors:
-•	One object response: provision of a response that only addresses one word from the pair (e.g., train-bicycle: one is faster than the other)
-•	Juxtaposition responses: provision of a response that describes the interaction of one member of the word pair with the other (e.g., cat-mouse: the cat can eat the mouse)
-•	Different responses: provision of a response that accurately describes how the two words of the pair are different (e.g., tongue-nose: you smell with your nose and taste with your tongue).
+No answer or incorrect answer: *Can you think of another way in which they are alike? They are vegetables.*
 
-12. Number Symbol Matching Test
+Test:
+1. How are television and radio alike? 
+  - 2 point: modes of entertainment/information/communication/media
+  - 1 point: electric/electrical; play/give out/broadcast signals, sound, news, or music; receive/transmit signals electronically 
+  - 0 point: send words/visions
+2. How are tall and short alike? 
+  - 2 point: ways of describing height/size/measurement/length/persons stature
+  - 1 point: variations/opposites of a dimension/scale
+  - 0 point: not alike; opposites; antonyms; descriptors; adjectives
 
-Materials Needed: Supplement 6A and 6B and Stopwatch 
+## Scoring
 
-Instructions: You will first perform the written version (Supplement 6A) and then the oral version (Supplement 6B).
+- Global:
+  - 0 = for no similarity or pointing out differences
+  - 1 = concrete response
+  - 2 = abstract response
+- Process (Giovanetti et al., 2001):
+  - In set errors: 
+  - Vague response: provision of a superordinate, but superficial categorical response (e.g., dog – lion: ‘‘they eat’’)
+  - Subordinate response: provision of responses that relate to shared concrete traits (e.g., orange - banana: they have skin) or specific properties about the items that may not be correct in all instances (e.g., boat-car: they have motors)
+  - Out of set errors:
+  - One object response: provision of a response that only addresses one word from the pair (e.g., train-bicycle: one is faster than the other)
+  - Juxtaposition responses: provision of a response that describes the interaction of one member of the word pair with the other (e.g., cat-mouse: the cat can eat the mouse)
+  - Different responses: provision of a response that accurately describes how the two words of the pair are different (e.g., tongue-nose: you smell with your nose and taste with your tongue).
 
-Written version:
-Here, (point to the key), you see two rows; there are symbols in the top row and the bottom row consists of corresponding numbers. Each symbol has its own number.
+# 12. Number Symbol Matching Test
 
-Now, here (point), you see rows that have symbols in the top part and are empty in the bottom part. I want you fill in the empty boxes with their corresponding numbers.
+## Materials Needed
 
-Look at the first symbol (point to first symbol on Sample). I look at this symbol, then look at the key. The symbol matches the number 3. So I go ahead and put that in the empty box below the symbol (write 3 below the first symbol on the Sample)
+Supplements (6A (Written))[Supplements/Supplement6A.pdf] and (6B (Oral))[Supplements/Supplement6B.pdf] and stopwatch 
 
-Look at the next symbol (point to the second symbol on Sample). I look at this symbol, then look at the key. The symbol matches the number 7. So I go ahead and put that in the empty box below the symbol (write 7 below the second symbol on the Sample)
+## Instructions
+
+If administering both Written and Oral versions, administer the written version (Supplement 6A) before the Oral version (Supplement 6B).
+
+### Written version
+
+*Here,* (point to the key), *you see two rows; there are symbols in the top row and the bottom row consists of corresponding numbers. Each symbol has its own number.*
+
+*Now, here* (point), *you see rows that have symbols in the top part and are empty in the bottom part. I want you fill in the empty boxes with their corresponding numbers.*
+
+*Look at the first symbol* (point to first symbol on Sample). *I look at this symbol, then look at the key. The symbol matches the number 3. So I go ahead and put that in the empty box below the symbol.* (write 3 below the first symbol on the Sample)
+
+*Look at the next symbol* (point to the second symbol on Sample). *I look at this symbol, then look at the key. The symbol matches the number 7. So I go ahead and put that in the empty box below the symbol.* (write 7 below the second symbol on the Sample)
  
-Look at the next symbol (point to the third symbol on Sample). I look at this symbol, then look at the key. The symbol matches the number 9. So I go ahead and put that in the empty box below the symbol (write 9 below the third symbol on the Sample)
+*Look at the next symbol* (point to the third symbol on Sample). *I look at this symbol, then look at the key. The symbol matches the number 9. So I go ahead and put that in the empty box below the symbol.* (write 9 below the third symbol on the Sample)
 
-Now, I want to you to fill in the boxes until this heavily shaded line.
+*Now, I want to you to fill in the boxes until this heavily shaded line.*
 
-Now, I am going to give you 30 seconds to fill in as many boxes as you can. Begin here (point) and fill in as many boxes as possible, without skipping any. When you finish one row move on to the next row. Continue working until I ask you to stop. Ready? Go!
+*Now, I am going to give you 30 seconds to fill in as many boxes as you can. Begin here* (point) *and fill in as many boxes as possible, without skipping any. When you finish one row move on to the next row. Continue working until I ask you to stop. Ready? Go!*
 
-Oral Version:
-Now, we are going to do something the same thing a little differently. I want you verbally state the numbers that match the presented symbols. 
+### Oral Version
 
-For example, look at the first symbol (point to first symbol on Sample). I look at this symbol, then look at the key. The symbol matches the number 3. So I want you to say 3. 
+*Now, we are going to do something the same thing a little differently. I want you verbally state the numbers that match the presented symbols.*
 
+*For example, look at the first symbol* (point to first symbol on Sample). *I look at this symbol, then look at the key. The symbol matches the number 3. So I want you to say 3.*
 
-Now, I am going to give you 30 seconds to state as many numbers matching the presented symbols as fast as you can. When you finish one row move on to the next row. Continue working until I ask you to stop. Ready? Go!
+*Now, I am going to give you 30 seconds to state as many numbers matching the presented symbols as fast as you can. When you finish one row move on to the next row. Continue working until I ask you to stop. Ready? Go!*
 
-Key:
+## Scoring 
 
-)  	S	|	 	 	 		Z 	 
-1	2	3	4	5	6	7	8	9
-
-Answers: 
-Sample: 1	7	9	8	7	1	5	2	6
-1	6	9	8	7 	3	2	5	3
-9	4	6	9	1	6	8	2	7
-3	6	8	7	9	2	1	5	4	
-5	6	7	1	3	2	8	7	3
-5	2	9	7	1	4	6	3	8
-9	4	2	5	1	7	4	6	8
-5	4	9	2	6	1	7	9	5
-6	3	1	7	8	2	5	4	9
-7	1	3	5	9	1	7	8	3	
+- Global: 
+  - 1 point for each correct answer 
+- Process: 
+  - Number of errors
+  - Stimulus pull errors
+  - Perseveration of symbols
+  - Overwriting/ micrographia/ tremors
+  - Expansion of symbols beyond boxes
+  - Set loss errors
 
-Scoring: 
-•	Global: 
-•	1 point for each correct answer 
-•	Process: 
+# 13. Verbal Naming Test
 
-•	Number of errors
-•	Stimulus pull errors
-•	Perseveration of symbols
-•	Overwriting/ micrographia/ tremors
-•	Expansion of symbols beyond boxes
-•	Set loss errors
+Adapted from (Yochim et al. (2015))[https://doi.org/10.1017/S1355617715000120]
 
-13. Verbal Naming Test (Adapted from Yochim et al., 2015).
+## Materials Needed
 
-Materials Needed: Stopwatch
+Stopwatch
 
-Instructions: Now, we are going to do something different. I am going to describe an object or a verb and I want you to tell me the name of what I am describing. (Read test item as presented)
+## Instructions
 
-Allow examinee 10 sec to respond. If examinee gives an incorrect response, say “No, its something else.”
+*Now, we are going to do something different. I am going to describe an object or a verb and I want you to tell me the name of what I am describing.* (Read test item as presented)
 
-If incorrect or no response is provided in 10 seconds, provide the phonemic cue by saying, “It starts with the sound.. (state the underlined part of the answer).”
+Allow examinee 10 seconds to respond. If examinee gives an incorrect response, say *No, its something else.*
+
+If incorrect or no response is provided in 10 seconds, provide the phonemic cue by saying, *It starts with the sound...* (pronounce the underlined part of the answer).
 
 If incorrect or response is provided after 10 seconds from the phonemic cue, proceed to next item
 
-Items:
-1.	What ice does when it gets hot – Melt
-2.	What you use to measure how many inches something is – Ruler
-3.	A long, sever snowstorm - Blizzard
-4.	What you put your head on to sleep at night – Pillow
-5.	The part of your shirt that covers your arms – Sleeves
-6.	A person who works at a drug store to fill prescriptions – Pharmacist
-7.	A moving set of stairs – Escalator
-8.	A device that measures temperature – Thermometer
-9.	What do you do to a pencil or knife that becomes dull – Sharpen
-10.	A place people go to gamble money – Casino
-11.	When you take a deep breath when your sleepy or bored – Yawn
-12.	A baby cow – Calf
-13.	The desert plant that has spikes – Cactus
-14.	 A toy that has a string and floats in the air when it is windy – Kite
-* If examinee says balloon, state: “can you think of another word?”
-15.	The poison a snake uses to kill its prey – Venom
+### Items
 
+1. What ice does when it gets hot (Melt)
+2. What you use to measure how many inches something is (Ruler)
+3. A long, sever snowstorm (Blizzard)
+4. What you put your head on to sleep at night (Pillow)
+5. The part of your shirt that covers your arms (Sleeves)
+6. A person who works at a drug store to fill prescriptions (Pharmacist)
+7. A moving set of stairs (Escalator)
+8. A device that measures temperature (Thermometer)
+9. What do you do to a pencil or knife that becomes dull (Sharpen)
+10. A place people go to gamble money (Casino)
+11. When you take a deep breath when you're sleepy or bored (Yawn)
+12. A baby cow (Calf)
+13. The desert plant that has spikes (Cactus)
+14. A toy that has a string and floats in the air when it is windy (Kite)
+  - If examinee says balloon, state: “can you think of another word?”
+15. The poison a snake uses to kill its prey (Venom)
 
-Scoring:
-•	Global
-•	 1 point for every correct answer without phonemic cue for a maximum of 15 points
-•	Process:
-•	Number of phonemic cues given 
-•	Number correct with phonemic cues
-•	Phonemic paraphasia
-•	Semantic paraphasia
-•	Circumlocution
-•	Perseveration
+## Scoring
 
+- Global
+  - 1 point for every correct answer without phonemic cue for a maximum of 15 points
+- Process:
+  - Number of phonemic cues given 
+  - Number correct with phonemic cues
+  - Phonemic paraphasia
+  - Semantic paraphasia
+  - Circumlocution
+  - Perseveration
 
-14. Orientation
+# 14. Orientation
 
-Materials Needed: None
+## Materials Needed
 
-Instructions: Ask questions in order presented below. What is the…
-1.	Date
-2.	Month
-3.	Year
-4.	Day of week
-5.	Place
-6.	City
-7.	State
-8.	President of the country
+None
 
-Scoring:
-•	Global:
-•	1 point for every correct response for a maximum of eight points
-•	There are no process scores for this test.
+## Instructions
 
-15. Verbal List Learning Delayed Recall
+Ask questions in order presented below. 
 
-Materials Needed: None
+*What is the...*
 
-Instructions: A little while ago, I read you a list of words. Please tell me all the words you remember from that list. (Write examinee’s responses verbatim, including any additional words that the examinee may state).
+1. Date?
+2. Month?
+3. Year?
+4. Day of week?
+5. Place?
+6. City?
+7. State? (or other relevant territory)
+8. President of the country? (or other relevant leader)
 
-Scoring: See below +
+## Scoring:
 
-Instructions: For the words not recalled on Delayed Recall, state: One of the words I read to you was a type of (eg. automobile). Do you remember that word?(See below for categories)
+- Global
+  - 1 point for every correct response for a maximum of eight points
+- Process
+  - There are no process scores for this test.
 
-•	Car (automobile) 
-•	River (water body) 
-•	Market (place where you buy something) 
-•	Desk (furniture)
-•	Foot (part of the body) 
-•	Square (geometric figure) 
-•	Teacher (type of job) 
+# 15. Verbal List Learning Delayed Recall
 
-Scoring: See below +
+# Materials Needed
 
-16. Verbal List Learning Yes/No Recognition
+None
 
-Materials Needed: None
+## Instructions
 
-Instructions: Now I am going to read you some more words. Some of these words were on the list I read to you earlier, and others are new words that you have not heard before. For each word, I want you tell me in Yes or No, whether you think the word was on the list. Was (word) on the list? Yes or No?
+*A little while ago, I read you a list of words. Please tell me all the words you remember from that list.* (Write examinee’s responses verbatim, including any additional words that the examinee may state).
 
-	1. Foot  
+For the words not recalled on Delayed Recall, state: *One of the words I read to you was a type of...* (e.g., automobile). *Do you remember that word?* (See below for categories)
+
+- Car (automobile) 
+- River (water body) 
+- Market (place where you buy something) 
+- Desk (furniture)
+- Foot (part of the body) 
+- Square (geometric figure) 
+- Teacher (type of job) 
+
+## Scoring
+
+See below
+
+# 16. Verbal List Learning Yes/No Recognition
+
+## Materials Needed
+
+None
+
+## Instructions
+
+*Now I am going to read you some more words. Some of these words were on the list I read to you earlier, and others are new words that you have not heard before. For each word, I want you tell me in Yes or No, whether you think the word was on the list. Was* (word) *on the list? Yes or No?*
+
+1. Foot  
 2. Table  
 3. River  
 4. Store
@@ -519,97 +558,126 @@ Instructions: Now I am going to read you some more words. Some of these words we
 13. Bus
 14. Teacher
 
-Scoring: See below +
+## Scoring
 
-17. Verbal List Learning Forced Choice Recognition
+See below
 
-Materials Needed: None
+# 17. Verbal List Learning Forced Choice Recognition
 
-Instructions:
-•	Was it seven or car
-•	Was it fight or teacher
-•	Was it television or foot
-•	Was it market or voice
-•	Was it desk or country
-•	Was it game or square
-•	Was it river or education
+## Materials Needed
 
-Scoring: See below +
+None
 
-+Scoring for all Verbal List Learning Items:
-•	Global: 
-•	1 point for each correct response on Delayed Recall, Yes/No Recognition, and Forced Recognition for a maximum of 14, 14, and 7 points respectively. 
-•	The Global score from Forced Recognition does not count towards the CoCA total score.
-•	Process (applies to Delayed Recall only):
-•	Repetitions
-•	Intrusions
-•	Semantic
-•	Phonemic
-•	Novel
-•	Repeat intrusions from immediate recall
+## Instructions
 
+*Which word was on the list?*
 
-18. Figure Delayed Recall  
+1. Was it seven or car?
+2. Was it fight or teacher
+3. Was it television or foot
+4. Was it market or voice
+5. Was it desk or country
+6. Was it game or square
+7. Was it river or education
 
-Stimulus: Supplement 7 and Stopwatch
+## Scoring
 
-Instructions: A little while ago, you copied a figure. Now, I would like you draw as much of that figure as you remember now. If you remember a part and are not sure where it goes, put it anywhere. Try and draw as much of it as you remember until I ask you to stop. You will have two minutes. Ready? Go!
+### Scoring for all Verbal List Learning Items
 
-* If examinee starts to draw a clock, remind him/her that he/she copied another figure as well. 
+- Global
+  - 1 point for each correct response on Delayed Free Recall, Delayed Cued Recall, Yes/No Recognition, and Forced Choice Recognition, for a maximum of 7, 7, 14, and 7 points, respectively. 
+- Process (applies to Delayed Free Recall only)
+  - Repetitions
+  - Intrusions
+  - Semantic
+  - Phonemic
+  - Novel
+  - Repeat intrusions from immediate recall
 
-Scoring:
-•	Global: 
-•	1 point or half point for each accuracy component and one point for each placement component in the Figure Copy test
-•	Maximum of 9 points for accuracy and 9 points for placement for a total of 18 points for the test.
-•	Process:
-•	Perseverations
-•	Spatial errors
-•	Poorly Planned
-•	Right to left organization
-•	Neglect
-•	Micrographia/ motor issues/ tremors
-•	Accuracy/placement ratio
-•	Percent retained
+# 18. Figure Delayed Recall  
 
-19. Prospective Memory Test Delayed Recall
+## Materials Needed
 
-Stimulus: None
+(Supplement 7)[Supplements/Supplement7.pdf] and stopwatch
 
-Instructions: The test is over. (Wait to see if the examinee responds by saying that he or she has to look at a bank statement; do not provide any hints or look expectantly).
+## Instructions
 
-Scoring: 
-•	Global:
-•	1 point if examinee states that he or she has to look at a bank statement or bank account. No points are given if examinee remembers that they have to do something else, for example, make an appointment or balance a check book.
-•	There are no process scores for this test. 
+*A little while ago, you copied a figure. Now, I would like you draw as much of that figure as you remember now. If you remember a part and are not sure where it goes, put it anywhere. Try and draw as much of it as you remember until I ask you to stop. You will have two minutes. Ready? Go!*
+
+If examinee starts to draw a clock, remind him/her that he/she copied another figure as well. 
+
+## Scoring
+
+- Global
+  - 1 point or half point for each accuracy component and one point for each placement component in the Figure Copy test
+  - Maximum of 9 points for accuracy and 9 points for placement for a total of 18 points for the test.
+- Process
+  - Perseverations
+  - Spatial errors
+  - Poorly Planned
+  - Right to left organization
+  - Neglect
+  - Micrographia/ motor issues/ tremors
+  - Accuracy/placement ratio
+  - Percent retained
+
+# 19. Prospective Memory Test Delayed Recall
+
+## Materials Needed
+
+None
+
+## Instructions
+
+*The test is over.* (Wait to see if the examinee responds by saying that he or she has to look at a bank statement; do not provide any hints or look expectantly).
+
+## Scoring
+
+- Global
+  - 1 point if examinee states that he or she has to look at a bank statement or bank account. No points are given if examinee remembers that they have to do something else, for example, make an appointment or balance a check book.
+- Process
+  - There are no process scores for this test. 
 
 ## 20. Test of Functional Abilities 
 
-Stimulus: Supplement 8
+## Materials Needed
 
-20A. Instructions: (Show examinee bank statement and say) – Suppose you have to pay your utilities bill of $189.75. This is your bank statement. Do you have enough money in your account to make this payment?
+(Supplement 8)[Supplements/Supplement8.pdf]
+
+## 20A. Instructions
+
+(Show examinee bank statement and say) *Suppose you have to pay your utilities bill of $189.75. This is your bank statement. Do you have enough money in your account to make this payment?*
 
 If the examinee says No, move on to item 20B.
-If the examinee says Yes, say – You actually do not have enough money in your account to make this payment. Now, move on to item 20B.
 
-Scoring:
-•	Global:
-•	1 point if the examinee’s answer is No.
-•	There are no process scores for this test.
+If the examinee says Yes, say *You actually do not have enough money in your account to make this payment.* Then move on to item 20B.
 
-20B. Instructions: What will happen if you make this payment from your account anyway?
-After the examinee’s response, state “anything else?” and record any additional responses.
+## 20A. Scoring
 
-Scoring:
-•	Global:
-•	1 point for any of the following for a total of three points:
-•	Any response suggesting that the utilities bill still has to be paid
-•	Any response indicating overdrawn/overdraft account or that money will be deducted from reserve/savings
-•	Any response indicated that a fee/ fine will be charged or that a penalty will be applied
-•	Any response that indicates that the check will bounce or that the check will be returned or that the check will not clear
-•	Any response suggesting that the examinee’s credit rating will be negatively impacted
-•	Any response suggesting that the utilities/lights will be shut off
-•	*A response suggesting that the account balance is negative or that there is not enough money in the account or that $15 -$17 is owed. This response in conjunction with responses #2 or #4 does not obtain an additional point
+- Global
+  - 1 point if the examinee’s answer is No. Otherwise, 0 points.
+- Process
+  - There are no process scores for this test.
 
-•	The following responses receive 0 points:
-•	Being arrested for a bad check
-•	The account will be closed
+## 20B. Instructions
+
+*What will happen if you make this payment from your account anyway?*
+
+After the examinee’s response, ask, *anything else?* and record any additional responses.
+
+## 20B. Scoring
+
+- Global
+ - 1 point for any of the following for a total of three points:
+    - Any response suggesting that the utilities bill still has to be paid
+    - Any response indicating overdrawn/overdraft account or that money will be deducted from reserve/savings
+    - Any response indicated that a fee/ fine will be charged or that a penalty will be applied
+    - Any response that indicates that the check will bounce or that the check will be returned or that the check will not clear
+    - Any response suggesting that the examinee’s credit rating will be negatively impacted
+    - Any response suggesting that the utilities/lights will be shut off
+    - A response suggesting that the account balance is negative or that there is not enough money in the account or that $15 -$17 is owed. This response, in conjunction with responses #2 or #4, does not obtain an additional point
+  - The following responses receive 0 points:
+    - Being arrested for a bad check
+    - The account will be closed
+- Process
+  - There are no process scores for this test.
