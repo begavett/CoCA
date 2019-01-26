@@ -66,7 +66,7 @@ Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.00573
 ### Scoring
 
 - Global
-  - Total time (seconds)/ number of correct lines
+  - Total time (seconds)$\div$ number of correct lines
     - Maximum number of correct lines is 7
 - Process
   - Sequencing error
