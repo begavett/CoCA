@@ -535,7 +535,7 @@ For the words not recalled on Delayed Recall, state: *One of the words I read to
 
 ## Scoring
 
-See below
+See [below](#scoring-15)
 
 # 16. Verbal List Learning Yes/No Recognition
 
@@ -564,7 +564,7 @@ None
 
 ## Scoring
 
-See below
+See [below](#scoring-15)
 
 # 17. Verbal List Learning Forced Choice Recognition
 
