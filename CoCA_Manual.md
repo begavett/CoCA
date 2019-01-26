@@ -64,10 +64,10 @@ Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.00573
 
 ### Scoring
 
-- Global: 
+- Global
   - Total time (seconds)/ number of correct lines
     - Maximum number of correct lines is 7
-- Process:
+- Process
   - Sequencing error
   - Set loss error
   - Capture error
@@ -100,9 +100,9 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 
 ### Scoring
 
-- Global: 
+- Global
   - 1 point for each word correctly recalled in each trial for a maximum of 21 points across all three learning trials
-- Process:
+- Process
   - Intrusions
   - Semantic
   - Phonemic
@@ -121,57 +121,57 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 
 ## Scoring
 
-- Global: 
+- Global
   - 1, 0.5, or 0 points for each accuracy component and 1 or 0 points for each placement component described below
   - Maximum of 9 points for accuracy and 9 points for placement for a total of 18 points for the test.
-- Components:
+- Component
   1. Outer rectangle
-    - Accuracy:
+    - Accuracy
         - 0.5 pt: not accurately drawn but resembles a rectangle even if lines are wavy and not straight. Rectangle may be much smaller or larger than that of the actual figure. 
         - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); angles formed are approximately 90 degrees; width of rectangle is obviously longer than height  
    - Placement: reasonably close to center of blank space provided, not rotated more than 15 degrees 
   2. Inner plus
-    - Accuracy:
+    - Accuracy
       - 0.5 pt: not accurately drawn but resembles a plus within the rectangle even if lines are wavy, not straight, and do not bisect each other or touch the outer rectangle.
       - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other; 
     - Placement: lines should approximately bisect all four sides of the rectangles; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner diagonals approximately at the point of intersection of inner diagonals 
   3. Inner diagonals
-    - Accuracy:
+    - Accuracy
       - 0.5 pt: not accurately drawn but resembles two intersecting diagonals within the rectangle even if lines are wavy, not straight, and do not intersect each other 
       - 1 pt: both lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other
     - Placement: ends of lines should meet corners of the rectangle without significant overlap or measurable distance between the ends of the lines and corners; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner plus approximately at the point of intersection of inner plus 
   4. Concentric rectangles
-    - Accuracy:
+    - Accuracy
       - 0.5 pt: not accurately drawn but resembles a single or concentric (with three or four lines) rectangles even if lines are wavy, not straight, and touch each other.
       - 1 pt: three concentric rectangles with lines that do not touch each other; the three rectangles decrease in size by approximately the same amount; horizontal sides of rectangles are obviously longer than vertical sides; lines are continuous or only have only slight waves and/or breaks; the size of the largest concentric rectangle is proportionate to the size of the outer rectangle (height and width do not exceed 50% of height and width of outer rectangle).
     - Placement: placed above the outer rectangle on the left side; the base of the concentric rectangles touches the top left horizontal segment of the outer rectangle; not rotated more than 15 degrees. The right vertical segment of the inner concentric rectangle is roughly aligned with the right edge of the inner triangle.
   5. Hoops
-    - Accuracy:
+    - Accuracy
       - 0.5 pt: not accurately drawn but resembles any number of vertical semicircles of varying sizes (looping allowed) that do not continue beyond the bottom of the left hand corner
       - 1 pt: Approximately nine (±2) small vertical semicircles that overlap with each other; semicircles are relatively equal in size; touch the left lower vertical side of the rectangle. Should be drawn separately rather than in a continuous motion (i.e., no looping on the side closest to the outer rectangle). Hoops do not continue beyond the bottom left hand corner.
     - Placement: placed on the outside of left vertical side of the rectangle; hoops are placed from the point of horizontal bisection of the height of the outer rectangle to the base of the rectangle
   6. Inner triangle
-    - Accuracy:
+    - Accuracy
       - 0.5 pt: resembles a triangle of any size; any figure resembling a triangle (even if without third side)
       -  pt: angle formed by three sides of triangle are all less than 90 degrees; sides are approximately straight (slight waves and breaks are acceptable)
     - Placement: vertical side of triangle touches or almost touches left inner top and bottom diagonals; vertex of triangle touches or almost touches the point of bisection of the left vertical side of rectangle
   7. Inner vertical lines
-    - Accuracy:
+    - Accuracy
       - 0.5 pt: Three vertical lines are present, even if they are of varying lengths and do not decrease progressively in length
       - 1 pt: three vertical lines are continuous and straight (slight waves and breaks are acceptable); the three lines visibly decrease in length from left to right; spacing between lines is roughly equal and is proportionate to the figure
     - Placement: in appropriate segment (upper half of top right quadrant); touching the top right horizontal side of the outer rectangle and the right upper diagonal
   8. Inner circles
-    - Accuracy:
+    - Accuracy
       - 0.5 pt: five dots or circle that are present in an obvious arrangement (does not have to match arrangement in figure) that do not touch each other or any other part of the figure
       - 1 pt: five circles that are round and closed (filled dots are not acceptable); are continuous and any breaks are only due to mild sloppiness; circles roughly equal size; in the depicted arrangement and not rotated more than 15 degrees; not touching each other or any other part of the figure
     - Placement: in appropriate segment (upper half of bottom right quadrant)
   9. Ramparts
-    - Accuracy:
+    - Accuracy
       - 0.5: an arrangement of any number of figures that do not have look like Ms and triangles; the arrangement may be sloppy/messy looking
       - 1 pt: three Ms and three right angled triangles (with unclosed bases) in a horizontal arrangement; Ms and triangles are arranged in an alternating manner; Ms and triangles are connected to each other by short horizontal lines; Ms and triangles are equal in height; all Ms are roughly equal in width; all triangles are roughly equal in width. Height of ramparts arrangement does not exceed 25% of length of the right vertical side of the outer rectangle.
     - Placement: ramparts arrangement protrudes from right lower corner of the rectangle such that it appears to be a continuation of the bottom horizontal side of the rectangle
 
-- Process:
+- Process
   - Perseverations
   - Spatial errors
   - Poorly planned
@@ -193,9 +193,9 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 
 ## Scoring
 
-- Global:
+- Global
   - 1 point for each correctly generated word
-- Process: 
+- Process
   - Number of words produced every 15 seconds (Epochs 15, 30, 35, and 60)
   - Perseveration
   - Intrusions
@@ -215,9 +215,9 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 *Now, we are going to do something a little different. I am going to give you one minute to name as many words as you can think of that belong to a particular letter of the alphabet that I will tell you in a moment. You can say any kind of word you like except for proper nouns (like Bob or Boston), numbers, or words that the have the same beginning but different endings (like play, player, playing). Ok, now you have one minute to name as many words as you can think of that begin with the letter “S”*
 
 ## Scoring
-- Global:
+- Global
   - 1 point for each correctly generated word
-- Process: 
+- Process
   - Number of words produced every 15 seconds (Epochs 15, 30, 35, and 60)
   - Perseveration
   - Intrusions
@@ -247,13 +247,13 @@ If incorrect, say - I said 5Q0L3; the order of the presented numbers was 503, so
 
 ## Scoring
 
-- Global:
+- Global
   - 0.5 pt for correct digit
   - 0.5 pt for correct order of digit
   - Maximum of 3 points on Trial 1 and 5 points on Trial 2
   - The addition of a number at the end of a sequence, for example, 9720 instead of 972, results in a total score of 2.5, with credit given for the three correct digits (9,7, & 2) and credit given for the correct order of 9 and 7. In this case, credit is not given for the correct order of 2
   - The addition of an incorrect number in the sequence, for example, 9702 instead of 972, results in a total score of 2.5, with credit given for the three correct digits (9,7, & 2) and credit given for the correct order of 9 and 7. In this case, credit is not given for the correct order of 2
-- Process: 
+- Process
   - Omissions
   - Additions/commissions
   - Perseverative error
@@ -277,7 +277,7 @@ If the participant forgets instructions during the task, remind once quickly, bu
 
 ## Scoring
 
-- Global: 
+- Global
   - 1 point for every correct response including not responding when appropriate (for example, not responding when the examiner says aisle), for a maximum of 42 points
   - If an examinee makes an error and then self corrects, do not give credit for the self-correction. Instead, count the error and make a note of the number of self-corrects.
 
@@ -328,7 +328,7 @@ Scoring: see below
     - 2: Major errors in the placement of the hands (significantly out of course including 10 to 11)
     - 1: Only one hand or poor representation of two hands
     - 0: No hands or perseveration on hands
-- Process:
+- Process
   - Size of clock: small if its measures less than 1.5 inches and large if it measures more than 5 inches
   - Graphical errors: lines are not precise resulting in distortions of the clock face or making the numbers difficult to read. The hands are not straight and sometimes fail to connect in the middle. The overall performance appears inaccurate and clumsy. 
   - Stimulus-bound errors: hands are set for 10 to 11 instead of 10 past 11; time is written in numbers/letters besides 10 and/or 11 or between 10 and 11; hands are either absent or pointed to 10 and/or 11.
@@ -361,7 +361,8 @@ If correct, say: *Yes, they are vegetables* (Move on to test items)
 
 No answer or incorrect answer: *Can you think of another way in which they are alike? They are vegetables.*
 
-Test:
+Test
+
 1. How are television and radio alike? 
   - 2 point: modes of entertainment/information/communication/media
   - 1 point: electric/electrical; play/give out/broadcast signals, sound, news, or music; receive/transmit signals electronically 
@@ -373,18 +374,18 @@ Test:
 
 ## Scoring
 
-- Global:
+- Global
   - 0 = for no similarity or pointing out differences
   - 1 = concrete response
   - 2 = abstract response
-- Process (Giovanetti et al., 2001):
-  - In set errors: 
-  - Vague response: provision of a superordinate, but superficial categorical response (e.g., dog – lion: ‘‘they eat’’)
-  - Subordinate response: provision of responses that relate to shared concrete traits (e.g., orange - banana: they have skin) or specific properties about the items that may not be correct in all instances (e.g., boat-car: they have motors)
-  - Out of set errors:
-  - One object response: provision of a response that only addresses one word from the pair (e.g., train-bicycle: one is faster than the other)
-  - Juxtaposition responses: provision of a response that describes the interaction of one member of the word pair with the other (e.g., cat-mouse: the cat can eat the mouse)
-  - Different responses: provision of a response that accurately describes how the two words of the pair are different (e.g., tongue-nose: you smell with your nose and taste with your tongue).
+- Process ((Giovannetti et al., 2001))[https://doi.org/10.1093/arclin/16.6.547]
+  - In set errors
+    - Vague response: provision of a superordinate, but superficial categorical response (e.g., dog – lion: ‘‘they eat’’)
+    - Subordinate response: provision of responses that relate to shared concrete traits (e.g., orange - banana: they have skin) or specific properties about the items that may not be correct in all instances (e.g., boat-car: they have motors)
+  - Out of set errors
+    - One object response: provision of a response that only addresses one word from the pair (e.g., train-bicycle: one is faster than the other)
+    - Juxtaposition responses: provision of a response that describes the interaction of one member of the word pair with the other (e.g., cat-mouse: the cat can eat the mouse)
+    - Different responses: provision of a response that accurately describes how the two words of the pair are different (e.g., tongue-nose: you smell with your nose and taste with your tongue).
 
 # 12. Number Symbol Matching Test
 
@@ -422,9 +423,9 @@ If administering both Written and Oral versions, administer the written version 
 
 ## Scoring 
 
-- Global: 
+- Global
   - 1 point for each correct answer 
-- Process: 
+- Process
   - Number of errors
   - Stimulus pull errors
   - Perseveration of symbols
@@ -473,7 +474,7 @@ If incorrect or response is provided after 10 seconds from the phonemic cue, pro
 
 - Global
   - 1 point for every correct answer without phonemic cue for a maximum of 15 points
-- Process:
+- Process
   - Number of phonemic cues given 
   - Number correct with phonemic cues
   - Phonemic paraphasia
@@ -502,7 +503,7 @@ Ask questions in order presented below.
 7. State? (or other relevant territory)
 8. President of the country? (or other relevant leader)
 
-## Scoring:
+## Scoring
 
 - Global
   - 1 point for every correct response for a maximum of eight points
