@@ -677,7 +677,7 @@ After the examinee’s response, ask, *anything else?* and record any additional
     4. Any response that indicates that the check will bounce, the check will be returned, or the check will not clear
     5. Any response suggesting that the examinee’s credit rating will be negatively impacted
     6. Any response suggesting that the utilities/lights will be shut off
-    7. A response suggesting that the account balance is negative or that there is not enough money in the account or that $15 -$17 is owed. If this response is given in conjunction with responses #2 or #4, does not obtain an additional point
+    7. A response suggesting that the account balance is negative or that there is not enough money in the account or that $15 -$17 is owed. If this response is given in conjunction with responses ii or iv, it does not earn an additional point
   - The following responses receive 0 points:
     - Being arrested for a bad check
     - The account will be closed
