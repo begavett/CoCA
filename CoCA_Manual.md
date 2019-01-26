@@ -302,7 +302,7 @@ If the participant forgets instructions during the task, remind once quickly, bu
 
 *I want you to draw the face of a clock with all the numbers in it and have the time showing ten after 11.*
 
-Scoring: see below
+Scoring: see [below](#scoring-for-clock-copy-and-command)
 
 # 10. Clock Copy
 
