@@ -670,20 +670,19 @@ After the examinee’s response, ask, *anything else?* and record any additional
 ## 20B. Scoring
 
 - Global
- - 1 point for any of the following for a total of three points:
-    - Any response suggesting that the utilities bill still has to be paid
-    - Any response indicating overdrawn/overdraft account or that money will be deducted from reserve/savings
-    - Any response indicated that a fee/ fine will be charged or that a penalty will be applied
-    - Any response that indicates that the check will bounce or that the check will be returned or that the check will not clear
-    - Any response suggesting that the examinee’s credit rating will be negatively impacted
-    - Any response suggesting that the utilities/lights will be shut off
-    - A response suggesting that the account balance is negative or that there is not enough money in the account or that $15 -$17 is owed. This response, in conjunction with responses #2 or #4, does not obtain an additional point
+ - 1 point for any of the following for a maximum total of three points:
+    1. Any response suggesting that the utility bill still has to be paid
+    2. Any response indicating overdrawn/overdraft account or that money will be deducted from reserve/savings
+    3. Any response indicated that a fee/fine will be charged or that a penalty will be applied
+    4. Any response that indicates that the check will bounce, the check will be returned, or the check will not clear
+    5. Any response suggesting that the examinee’s credit rating will be negatively impacted
+    6. Any response suggesting that the utilities/lights will be shut off
+    7. A response suggesting that the account balance is negative or that there is not enough money in the account or that $15 -$17 is owed. If this response is given in conjunction with responses #2 or #4, does not obtain an additional point
   - The following responses receive 0 points:
     - Being arrested for a bad check
     - The account will be closed
 - Process
   - There are no process scores for this test.
-
 
 # Scoring
 
