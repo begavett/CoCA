@@ -17,11 +17,12 @@
 **[13. Verbal Naming Test](#13-verbal-naming-test)**<br>
 **[14. Orientation](#14-orientation)**<br>
 **[15. Verbal List Learning Delayed Recall](#15-verbal-list-learning-delayed-recall)**<br>
-**[16. Verbal List Learning Yes/No Recognition](#16-verbal-list-learning-yes-no-recognition)**<br>
+**[16. Verbal List Learning Yes/No Recognition](#16-verbal-list-learning-yesno-recognition)**<br>
 **[17. Verbal List Learning Forced Choice Recognition](#17-verbal-list-learning-forced-choice-recognition)**<br>
 **[18. Figure Delayed Recall](#18-figure-delayed-recall)**<br>
 **[19. Prospective Memory Test Delayed Recall](#19-prospective-memory-test-delayed-recall)**<br>
 **[20. Test of Functional Abilities](#20-test-of-functional-abilities)**<br>
+**[Scoring](#scoring)**<br>
 
 ## General Instructions and Scoring Guidelines
 
@@ -682,3 +683,14 @@ After the examinee’s response, ask, *anything else?* and record any additional
     - The account will be closed
 - Process
   - There are no process scores for this test.
+
+
+# Scoring
+
+## Global Cognition
+
+A global composite score can be obtained using our online scoring program, available at [https://neuropsych.shinyapps.io/CoCA/].
+
+## Process-Based
+
+Coding of errors, process variables, and behavioral observations can be facilitated with [Supplement 9](Supplements/Supplement9.pdf).
