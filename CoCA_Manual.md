@@ -122,6 +122,8 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 
 *I want you to copy this figure as accurately as you can in the space below. You will have two minutes. Ready? Go!*
 
+![Figure Copy](Images/Figure.png "Figure Copy Stimulus")
+
 ## Scoring
 
 - Global
@@ -423,6 +425,8 @@ If administering both Written and Oral versions, administer the written version 
 *For example, look at the first symbol* (point to first symbol on Sample). *I look at this symbol, then look at the key. The symbol matches the number 3. So I want you to say 3.*
 
 *Now, I am going to give you 30 seconds to state as many numbers matching the presented symbols as fast as you can. When you finish one row move on to the next row. Continue working until I ask you to stop. Ready? Go!*
+
+![Number Symbol Matching Test](Images/NSMT_Answer_Key.png "Number Symbol Matching Test Answer Key")
 
 ## Scoring 
 
