@@ -689,7 +689,8 @@ After the examinee’s response, ask, *anything else?* and record any additional
 
 ## Global Cognition
 
-A global composite score can be obtained using our online scoring program, available at [https://neuropsych.shinyapps.io/CoCA/].
+A global composite score can be obtained using our online scoring program, available at 
+https://neuropsych.shinyapps.io/CoCA/.
 
 ## Process-Based
 
