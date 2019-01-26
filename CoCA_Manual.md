@@ -122,7 +122,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 
 *I want you to copy this figure as accurately as you can in the space below. You will have two minutes. Ready? Go!*
 
-![Figure Copy](Images/Figure.jpg "Figure Copy Stimulus")
+![Figure Copy](Images/Figure.png "Figure Copy Stimulus")
 
 ## Scoring
 
