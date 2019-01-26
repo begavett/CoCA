@@ -22,7 +22,7 @@
 **[18. Figure Delayed Recall](#18-figure-delayed-recall)**<br>
 **[19. Prospective Memory Test Delayed Recall](#19-prospective-memory-test-delayed-recall)**<br>
 **[20. Test of Functional Abilities](#20-test-of-functional-abilities)**<br>
-**[Scoring](#scoring)**<br>
+**[Scoring](#scoring-17)**<br>
 
 ## General Instructions and Scoring Guidelines
 
