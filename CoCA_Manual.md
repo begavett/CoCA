@@ -265,7 +265,7 @@ If incorrect, say - I said 5Q0L3; the order of the presented numbers was 503, so
 
 Optional: standardized audio recording of stimulus. Alternatively, examiners can read the stimulus to the examinee.
 
-(Audio Recording)[Supplements/TFA_Audio.mp3]
+[Audio Recording](Supplements/TFA_Audio.mp3)
 
 ## Instructions
 
@@ -291,7 +291,7 @@ If the participant forgets instructions during the task, remind once quickly, bu
 
 ## Materials Needed
 
-(Supplement 4)[Supplements/Supplement4.pdf]
+[Supplement 4](Supplements/Supplement4.pdf)
 
 ## Instructions
 
@@ -303,7 +303,7 @@ Scoring: see below
 
 ## Materials Needed
 
-(Supplement 5)[Supplements/Supplement5.pdf]
+[Supplement 5](Supplements/Supplement5.pdf)
 
 ## Instructions
 
@@ -311,7 +311,7 @@ Scoring: see below
 
 ## Scoring for Clock Copy and Command
 
-- Global: Use scoring system below ((Rouleau et al., 1992))[http://dx.doi.org/10.1016/0278-2626(92)90112-Y], for a maximum of 10 points for each (command and copy)
+- Global: Use scoring system below [(Rouleau et al., 1992)](http://dx.doi.org/10.1016/0278-2626(92)90112-Y), for a maximum of 10 points for each (command and copy)
   - Integrity of the clock face (maximum: 2 points)
     - 2: Present without gross distortion
     - 1: Incomplete or some distortion
@@ -391,7 +391,7 @@ Test
 
 ## Materials Needed
 
-Supplements (6A (Written))[Supplements/Supplement6A.pdf] and (6B (Oral))[Supplements/Supplement6B.pdf] and stopwatch 
+Supplements [6A (Written)](Supplements/Supplement6A.pdf) and [6B (Oral)](Supplements/Supplement6B.pdf) and stopwatch 
 
 ## Instructions
 
@@ -435,7 +435,7 @@ If administering both Written and Oral versions, administer the written version 
 
 # 13. Verbal Naming Test
 
-Adapted from (Yochim et al. (2015))[https://doi.org/10.1017/S1355617715000120]
+Adapted from [Yochim et al. (2015)](https://doi.org/10.1017/S1355617715000120)
 
 ## Materials Needed
 
@@ -599,7 +599,7 @@ None
 
 ## Materials Needed
 
-(Supplement 7)[Supplements/Supplement7.pdf] and stopwatch
+[Supplement 7](Supplements/Supplement7.pdf) and stopwatch
 
 ## Instructions
 
@@ -643,7 +643,7 @@ None
 
 ## Materials Needed
 
-(Supplement 8)[Supplements/Supplement8.pdf]
+[Supplement 8](Supplements/Supplement8.pdf)
 
 ## 20A. Instructions
 
