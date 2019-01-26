@@ -245,7 +245,7 @@ None.
 
 If correct, move on to the test items.
 
-If incorrect, say - I said 5Q0L3; the order of the presented numbers was 503, so backwards it would be 305. Understood? Ok, I am going to move on to the test item.
+If incorrect, say - *I said 5Q0L3; the order of the presented numbers was 503, so backwards it would be 305. Understood? Ok, I am going to move on to the test item.*
 
 - Trial 1: 2F7CS9N (Answer: 972)
 - Trial 2: 3TS7V0BK1Y6U (Answer: 61073)
