@@ -426,7 +426,7 @@ If administering both Written and Oral versions, administer the written version 
 
 *Now, I am going to give you 30 seconds to state as many numbers matching the presented symbols as fast as you can. When you finish one row move on to the next row. Continue working until I ask you to stop. Ready? Go!*
 
-![Number Symbol Matching Test](Images/NSMT_Answer_Key.png "Number Symbol Matching Test Answer Key")
+![Number Symbol Matching Test](Images/NSMT_AnswerKey.png "Number Symbol Matching Test Answer Key")
 
 ## Scoring 
 
