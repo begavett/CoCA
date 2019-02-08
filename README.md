@@ -32,4 +32,6 @@ The CoCA is a modern cognitive screening tool that has the following features.
 
 - The CoCA Administration and Scoring Manual is available at [this link](CoCA_Manual.md).
 
+## Obtaining the CoCA
+
 The CoCA instrument can be obtained by contacting its developers, Ashita Gurnani or Brandon Gavett. We are seeking collborators who are willing to help validate the CoCA in both clinical and healthy samples.
