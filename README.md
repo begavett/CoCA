@@ -30,7 +30,7 @@ The CoCA is a modern cognitive screening tool that has the following features.
 
 ### Research on the CoCA
 
-Gurnani, A. S., Lin, S. S., & Gavett, B. E. (2019, February 8). The Colorado Cognitive Assessment (CoCA): Development of an Advanced Neuropsychological Screening Tool. https://doi.org/10.31234/osf.io/tqckr 
+Gurnani, A. S., Lin, S. S., & Gavett, B. E. (2019, February 8). The Colorado Cognitive Assessment (CoCA): Development of an Advanced Neuropsychological Screening Tool. [doi:10.31234/osf.io/tqckr](https://doi.org/10.31234/osf.io/tqckr)
 
 ### CoCA Manuals
 
