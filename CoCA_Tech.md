@@ -9,6 +9,8 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
+    self_contained: false
+    keep_md: true
 ---
 
 
@@ -58,7 +60,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc1](figure/desc1-1.png)
+![](CoCA_Tech_files/figure-html/desc1-1.png)<!-- -->
 
 ## Shape Trail Test
 
@@ -103,7 +105,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc2](figure/desc2-1.png)
+![](CoCA_Tech_files/figure-html/desc2-1.png)<!-- -->
 
 ### Correct Lines
 
@@ -146,7 +148,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc3](figure/desc3-1.png)
+![](CoCA_Tech_files/figure-html/desc3-1.png)<!-- -->
 
 ### Total Score (Seconds per Correct Line)
 
@@ -189,7 +191,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc4](figure/desc4-1.png)
+![](CoCA_Tech_files/figure-html/desc4-1.png)<!-- -->
 
 ## Verbal List Learning
 
@@ -234,7 +236,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc5](figure/desc5-1.png)
+![](CoCA_Tech_files/figure-html/desc5-1.png)<!-- -->
 
 ### Delayed Free Recall
 
@@ -277,7 +279,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc6](figure/desc6-1.png)
+![](CoCA_Tech_files/figure-html/desc6-1.png)<!-- -->
 
 ### Yes/No Recognition
 
@@ -320,7 +322,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc7](figure/desc7-1.png)
+![](CoCA_Tech_files/figure-html/desc7-1.png)<!-- -->
 
 ### Forced Choice Recognition
 
@@ -363,7 +365,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc8](figure/desc8-1.png)
+![](CoCA_Tech_files/figure-html/desc8-1.png)<!-- -->
 
 ## Complex Figure
 
@@ -408,7 +410,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc9](figure/desc9-1.png)
+![](CoCA_Tech_files/figure-html/desc9-1.png)<!-- -->
 
 ### Figure Recall
 
@@ -451,7 +453,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc10](figure/desc10-1.png)
+![](CoCA_Tech_files/figure-html/desc10-1.png)<!-- -->
 
 ## Animal Fluency
 
@@ -494,7 +496,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc11](figure/desc11-1.png)
+![](CoCA_Tech_files/figure-html/desc11-1.png)<!-- -->
 
 ## Lexical Fluency
 
@@ -537,7 +539,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc12](figure/desc12-1.png)
+![](CoCA_Tech_files/figure-html/desc12-1.png)<!-- -->
 
 ## Working Memory
 
@@ -582,7 +584,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc13](figure/desc13-1.png)
+![](CoCA_Tech_files/figure-html/desc13-1.png)<!-- -->
 
 ### Trial 2
 
@@ -625,7 +627,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc14](figure/desc14-1.png)
+![](CoCA_Tech_files/figure-html/desc14-1.png)<!-- -->
 
 ### Trials 1 + 2
 
@@ -668,7 +670,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc14a](figure/desc14a-1.png)
+![](CoCA_Tech_files/figure-html/desc14a-1.png)<!-- -->
 
 ## Test of Focused Attention
 
@@ -711,7 +713,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc15](figure/desc15-1.png)
+![](CoCA_Tech_files/figure-html/desc15-1.png)<!-- -->
 
 ## Clock Drawing
 
@@ -756,7 +758,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc16](figure/desc16-1.png)
+![](CoCA_Tech_files/figure-html/desc16-1.png)<!-- -->
 
 ### Copy
 
@@ -799,7 +801,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc17](figure/desc17-1.png)
+![](CoCA_Tech_files/figure-html/desc17-1.png)<!-- -->
 
 ## Number Symbol Matching Test
 
@@ -844,7 +846,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc18](figure/desc18-1.png)
+![](CoCA_Tech_files/figure-html/desc18-1.png)<!-- -->
 
 ## Number Symbol Matching Test
 
@@ -889,7 +891,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc19](figure/desc19-1.png)
+![](CoCA_Tech_files/figure-html/desc19-1.png)<!-- -->
 
 ## Verbal Naming Test
 
@@ -932,7 +934,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc20](figure/desc20-1.png)
+![](CoCA_Tech_files/figure-html/desc20-1.png)<!-- -->
 
 ## Orientation
 
@@ -975,7 +977,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc21](figure/desc21-1.png)
+![](CoCA_Tech_files/figure-html/desc21-1.png)<!-- -->
 
 ## Prospective Memory Test
 
@@ -1018,7 +1020,7 @@ output:
 </tbody>
 </table>
 
-![plot of chunk desc22](figure/desc22-1.png)
+![](CoCA_Tech_files/figure-html/desc22-1.png)<!-- -->
 
 # Covariance Matrix
 
@@ -1199,11 +1201,11 @@ output:
 
 ## Corrgram
 
-![plot of chunk corrgram](figure/corrgram-1.png)
+![](CoCA_Tech_files/figure-html/corrgram-1.png)<!-- -->
 
 # Parallel Analysis/Scree Plot
 
-![plot of chunk scree](figure/scree-1.png)
+![](CoCA_Tech_files/figure-html/scree-1.png)<!-- -->
 
 ```
 ## Parallel analysis suggests that the number of factors =  1  and the number of components =  1
