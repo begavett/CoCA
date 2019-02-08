@@ -28,12 +28,19 @@ The CoCA is a modern cognitive screening tool that has the following features.
 
 ## Important Links
 
+### Research on the CoCA
+
 - A preprint of the CoCA's initial validation study can be accessed [here](https://doi.org/10.31234/osf.io/tqckr).
+
+### CoCA Manuals
 
 - The CoCA Administration and Scoring Manual is available at [this link](CoCA_Manual.md).
 
 - The CoCA Psychometric and Technical Manual is available at [this link](CoCA_Tech.md).
 
+### CoCA Scoring
+
+- A web app that generates global CoCA factor scores and provides other scoring is available [here](https://neuropsych.shinyapps.io/CoCA/).
 ## Obtaining the CoCA
 
 The CoCA instrument can be obtained by contacting its developers, Ashita Gurnani or Brandon Gavett. We are seeking collborators who are willing to help validate the CoCA in both clinical and healthy samples.
