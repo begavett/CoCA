@@ -1,22 +1,3 @@
----
-title: "Colorado Cognitive Assessment (CoCA) Psychometric and Technical Report"
-author: "Brandon E. Gavett & Ashita S. Gurnani"
-date: "8 February 2019"
-output:
-  html_document:
-    number_sections: no
-    theme: default
-    toc: yes
-    toc_depth: 3
-    toc_float: yes
-    self_contained: false
-    keep_md: true
----
-
-
-
-
-
 # Sample Descriptive Statistics and Test Performance
 
 ## CoCA Completion Time
