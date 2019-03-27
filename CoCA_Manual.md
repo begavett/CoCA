@@ -37,7 +37,7 @@ No additional materials besides a pen and a stopwatch are needed for the CoCA. A
 
 ## 1. Prospective Memory Test
 
-### Materials Needed
+### Scoring
 
 None
 
@@ -55,9 +55,9 @@ This item is not scored
 
 Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.0057333)
 
-### Materials Needed
+### Scoring
 
-[Supplement 1](Supplements/Supplement1.pdf) and stopwatch
+[Supplement 1](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement1.pdf) and stopwatch
 
 ### Instructions
 
@@ -82,7 +82,7 @@ Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.00573
 
 ## 3. Verbal List Learning Test
 
-### Materials Needed
+### Scoring
 
 None. 
 
@@ -113,19 +113,19 @@ At the end of the test: *Try and keep these words in mind because you may be ask
   - Novel
   - Repetitions
 
-# 4. Figure Copy 
+## 4. Figure Copy 
 
-## Materials Needed
+### Scoring
 
-[Supplement 2](Supplements/Supplement2.pdf) and stopwatch
+[Supplement 2](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement2.pdf) and stopwatch
 
-## Instructions
+### Instructions
 
 *I want you to copy this figure as accurately as you can in the space below. You will have two minutes. Ready? Go!*
 
 ![Figure Copy](Images/Figure.png "Figure Copy Stimulus")
 
-## Scoring
+### Scoring
 
 - Global
   - 1, 0.5, or 0 points for each accuracy component and 1 or 0 points for each placement component described below
@@ -187,17 +187,17 @@ At the end of the test: *Try and keep these words in mind because you may be ask
   - Accuracy/placement ratio
 
 
-# 5. Animal Fluency
+## 5. Animal Fluency
 
-## Materials Needed
+### Scoring
 
-[Supplement 3](Supplements/Supplement3.pdf) and stopwatch
+[Supplement 3](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement3.pdf) and stopwatch
 
-## Instructions
+### Instructions
 
 *Now, I am going to give you one minute to name as many animals as you can. Ready? Go!*
 
-## Scoring
+### Scoring
 
 - Global
   - 1 point for each correctly generated word
@@ -210,17 +210,17 @@ At the end of the test: *Try and keep these words in mind because you may be ask
   - Percent perseveration
   - Semantic index = animal/(animal + letter)
 
-# 6. Lexical Fluency 
+## 6. Lexical Fluency 
 
-## Materials Needed
+### Scoring
 
-[Supplement 3](Supplements/Supplement3.pdf) and stopwatch
+[Supplement 3](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement3.pdf) and stopwatch
 
-## Instructions
+### Instructions
 
 *Now, we are going to do something a little different. I am going to give you one minute to name as many words as you can think of that belong to a particular letter of the alphabet that I will tell you in a moment. You can say any kind of word you like except for proper nouns (like Bob or Boston), numbers, or words that the have the same beginning but different endings (like play, player, playing). Ok, now you have one minute to name as many words as you can think of that begin with the letter “S”*
 
-## Scoring
+### Scoring
 - Global
   - 1 point for each correctly generated word
 - Process
@@ -232,13 +232,13 @@ At the end of the test: *Try and keep these words in mind because you may be ask
   - Percent perseveration
   - Rule violations
 
-# 7. Test of Working Memory
+## 7. Test of Working Memory
 
-## Materials Needed 
+### Materials Needed 
 
 None.
 
-## Instructions
+### Instructions
 
 *I am going to read you some numbers and letters. When I am done, I want you tell me all the numbers, in the reverse order of their presentation. Lets start with a sample* (read one letter/digit per second):
 
@@ -251,7 +251,7 @@ If incorrect, say - *I said 5Q0L3; the order of the presented numbers was 503, s
 - Trial 1: 2F7CS9N (Answer: 972)
 - Trial 2: 3TS7V0BK1Y6U (Answer: 61073)
 
-## Scoring
+### Scoring
 
 - Global
   - 0.5 pt for correct digit
@@ -265,15 +265,15 @@ If incorrect, say - *I said 5Q0L3; the order of the presented numbers was 503, s
   - Perseverative error
   - Set loss errors
 
-# 8. Test of Focused Attention 
+## 8. Test of Focused Attention 
 
-## Materials Needed
+### Materials Needed
 
 Optional: standardized audio recording of stimulus. Alternatively, examiners can read the stimulus to the examinee.
 
-[Audio Recording](Supplements/TFA_Audio.mp3)
+[Audio Recording](https://github.com/begavett/CoCA/blob/master/Supplements/TFA_Audio.mp3)
 
-## Instructions
+### Instructions
 
 *I am going to read you a list of words. When I say eyes, you say see. When I say nose, you say smell. If I say a different word, do not say anything. Understand? Ready?* (Read words below in order at the rate of 1 word/second).
 
@@ -281,7 +281,7 @@ Eyes; aisle; note; iron; nose; small; eyes; seat; note; nose; hose; nod; aisle; 
 
 If the participant forgets instructions during the task, remind once quickly, but keep going with the task and do not restart the task. 
 
-## Scoring
+### Scoring
 
 - Global
   - 1 point for every correct response including not responding when appropriate (for example, not responding when the examiner says aisle), for a maximum of 42 points
@@ -293,29 +293,29 @@ If the participant forgets instructions during the task, remind once quickly, bu
   - Set loss errors
   - Perseverative errors
 
-# 9. Clock Command 
+## 9. Clock Command 
 
-## Materials Needed
+### Materials Needed
 
-[Supplement 4](Supplements/Supplement4.pdf)
+[Supplement 4](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement4.pdf)
 
-## Instructions
+### Instructions
 
 *I want you to draw the face of a clock with all the numbers in it and have the time showing ten after 11.*
 
 Scoring: see [below](#scoring-for-clock-copy-and-command)
 
-# 10. Clock Copy
+## 10. Clock Copy
 
-## Materials Needed
+### Materials Needed
 
-[Supplement 5](Supplements/Supplement5.pdf)
+[Supplement 5](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement5.pdf)
 
-## Instructions
+### Instructions
 
 *Now, I want you to copy this clock as accurately as possible in the space below.*
 
-## Scoring for Clock Copy and Command
+### Scoring for Clock Copy and Command
 
 - Global: Use scoring system below [(Rouleau et al., 1992)](http://dx.doi.org/10.1016/0278-2626(92)90112-Y), for a maximum of 10 points for each (command and copy)
   - Integrity of the clock face (maximum: 2 points)
@@ -347,13 +347,13 @@ Scoring: see [below](#scoring-for-clock-copy-and-command)
   - Requested reminder of time for hand-setting
   - Copy to command ratio
 
-# 11. Similarities 
+## 11. Similarities 
 
-## Materials Needed
+### Materials Needed
 
 None
 
-## Instructions
+### Instructions
 
 *Now I am going to ask you some questions about how two things are alike.* (Read sample item below)
 
@@ -378,7 +378,7 @@ Test
   - 1 point: variations/opposites of a dimension/scale
   - 0 point: not alike; opposites; antonyms; descriptors; adjectives
 
-## Scoring
+### Scoring
 
 - Global
   - 0 = for no similarity or pointing out differences
@@ -393,13 +393,13 @@ Test
     - Juxtaposition responses: provision of a response that describes the interaction of one member of the word pair with the other (e.g., cat-mouse: the cat can eat the mouse)
     - Different responses: provision of a response that accurately describes how the two words of the pair are different (e.g., tongue-nose: you smell with your nose and taste with your tongue).
 
-# 12. Number Symbol Matching Test
+## 12. Number Symbol Matching Test
 
-## Materials Needed
+### Materials Needed
 
-Supplements [6A (Written)](Supplements/Supplement6A.pdf) and [6B (Oral)](Supplements/Supplement6B.pdf) and stopwatch 
+Supplements [6A (Written)](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement6A.pdf) and [6B (Oral)](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement6B.pdf) and stopwatch 
 
-## Instructions
+### Instructions
 
 If administering both Written and Oral versions, administer the written version (Supplement 6A) before the Oral version (Supplement 6B).
 
@@ -429,7 +429,7 @@ If administering both Written and Oral versions, administer the written version 
 
 ![Number Symbol Matching Test](Images/NSMT_AnswerKey.png "Number Symbol Matching Test Answer Key")
 
-## Scoring 
+### Scoring 
 
 - Global
   - 1 point for each correct answer 
@@ -441,15 +441,15 @@ If administering both Written and Oral versions, administer the written version 
   - Expansion of symbols beyond boxes
   - Set loss errors
 
-# 13. Verbal Naming Test
+## 13. Verbal Naming Test
 
 Adapted from [Yochim et al. (2015)](https://doi.org/10.1017/S1355617715000120)
 
-## Materials Needed
+### Materials Needed
 
 Stopwatch
 
-## Instructions
+### Instructions
 
 *Now, we are going to do something different. I am going to describe an object or a verb and I want you to tell me the name of what I am describing.* (Read test item as presented)
 
@@ -478,7 +478,7 @@ If incorrect or response is provided after 10 seconds from the phonemic cue, pro
   - If examinee says balloon, state: “can you think of another word?”
 15. The poison a snake uses to kill its prey (Venom)
 
-## Scoring
+### Scoring
 
 - Global
   - 1 point for every correct answer without phonemic cue for a maximum of 15 points
@@ -490,13 +490,13 @@ If incorrect or response is provided after 10 seconds from the phonemic cue, pro
   - Circumlocution
   - Perseveration
 
-# 14. Orientation
+## 14. Orientation
 
-## Materials Needed
+### Materials Needed
 
 None
 
-## Instructions
+### Instructions
 
 Ask questions in order presented below. 
 
@@ -511,20 +511,20 @@ Ask questions in order presented below.
 7. State? (or other relevant territory)
 8. President of the country? (or other relevant leader)
 
-## Scoring
+### Scoring
 
 - Global
   - 1 point for every correct response for a maximum of eight points
 - Process
   - There are no process scores for this test.
 
-# 15. Verbal List Learning Delayed Recall
+## 15. Verbal List Learning Delayed Recall
 
-# Materials Needed
+### Materials Needed
 
 None
 
-## Instructions
+### Instructions
 
 *A little while ago, I read you a list of words. Please tell me all the words you remember from that list.* (Write examinee’s responses verbatim, including any additional words that the examinee may state).
 
@@ -538,17 +538,17 @@ For the words not recalled on Delayed Recall, state: *One of the words I read to
 - Square (geometric figure) 
 - Teacher (type of job) 
 
-## Scoring
+### Scoring
 
 See [below](#scoring-15)
 
-# 16. Verbal List Learning Yes/No Recognition
+## 16. Verbal List Learning Yes/No Recognition
 
-## Materials Needed
+### Materials Needed
 
 None
 
-## Instructions
+### Instructions
 
 *Now I am going to read you some more words. Some of these words were on the list I read to you earlier, and others are new words that you have not heard before. For each word, I want you tell me in Yes or No, whether you think the word was on the list. Was* (word) *on the list? Yes or No?*
 
@@ -567,17 +567,17 @@ None
 13. Bus
 14. Teacher
 
-## Scoring
+### Scoring
 
 See [below](#scoring-15)
 
-# 17. Verbal List Learning Forced Choice Recognition
+## 17. Verbal List Learning Forced Choice Recognition
 
-## Materials Needed
+### Materials Needed
 
 None
 
-## Instructions
+### Instructions
 
 *Which word was on the list?*
 
@@ -589,7 +589,7 @@ None
 6. Was it game or square
 7. Was it river or education
 
-## Scoring
+### Scoring
 
 ### Scoring for all Verbal List Learning Items
 
@@ -603,19 +603,19 @@ None
   - Novel
   - Repeat intrusions from immediate recall
 
-# 18. Figure Delayed Recall  
+## 18. Figure Delayed Recall  
 
-## Materials Needed
+### Materials Needed
 
-[Supplement 7](Supplements/Supplement7.pdf) and stopwatch
+[Supplement 7](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement7.pdf) and stopwatch
 
-## Instructions
+### Instructions
 
 *A little while ago, you copied a figure. Now, I would like you draw as much of that figure as you remember now. If you remember a part and are not sure where it goes, put it anywhere. Try and draw as much of it as you remember until I ask you to stop. You will have two minutes. Ready? Go!*
 
 If examinee starts to draw a clock, remind him/her that he/she copied another figure as well. 
 
-## Scoring
+### Scoring
 
 - Global
   - 1 point or half point for each accuracy component and one point for each placement component in the Figure Copy test
@@ -630,17 +630,17 @@ If examinee starts to draw a clock, remind him/her that he/she copied another fi
   - Accuracy/placement ratio
   - Percent retained
 
-# 19. Prospective Memory Test Delayed Recall
+## 19. Prospective Memory Test Delayed Recall
 
-## Materials Needed
+### Materials Needed
 
 None
 
-## Instructions
+### Instructions
 
 *The test is over.* (Wait to see if the examinee responds by saying that he or she has to look at a bank statement; do not provide any hints or look expectantly).
 
-## Scoring
+### Scoring
 
 - Global
   - 1 point if examinee states that he or she has to look at a bank statement or bank account. No points are given if examinee remembers that they have to do something else, for example, make an appointment or balance a check book.
@@ -649,11 +649,11 @@ None
 
 ## 20. Test of Functional Abilities 
 
-## Materials Needed
+### Materials Needed
 
-[Supplement 8](Supplements/Supplement8.pdf)
+[Supplement 8](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement8.pdf)
 
-## 20A. Instructions
+### 20A. Instructions
 
 (Show examinee bank statement and say) *Suppose you have to pay your utilities bill of $189.75. This is your bank statement. Do you have enough money in your account to make this payment?*
 
@@ -661,20 +661,20 @@ If the examinee says No, move on to item 20B.
 
 If the examinee says Yes, say *You actually do not have enough money in your account to make this payment.* Then move on to item 20B.
 
-## 20A. Scoring
+### 20A. Scoring
 
 - Global
   - 1 point if the examinee’s answer is No. Otherwise, 0 points.
 - Process
   - There are no process scores for this test.
 
-## 20B. Instructions
+### 20B. Instructions
 
 *What will happen if you make this payment from your account anyway?*
 
 After the examinee’s response, ask, *anything else?* and record any additional responses.
 
-## 20B. Scoring
+### 20B. Scoring
 
 - Global
  - 1 point for any of the following for a maximum total of three points:
@@ -701,7 +701,7 @@ A global composite score can be obtained using our online scoring program, avail
 
 ## Process-Based
 
-Coding of errors, process variables, and behavioral observations can be facilitated with [Supplement 9](Supplements/Supplement9.pdf).
+Coding of errors, process variables, and behavioral observations can be facilitated with [Supplement 9](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement9.pdf).
 
 # License
 
