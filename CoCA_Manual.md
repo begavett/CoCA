@@ -37,7 +37,7 @@ No additional materials besides a pen and a stopwatch are needed for the CoCA. A
 
 ## 1. Prospective Memory Test
 
-### Scoring
+### Materials Needed
 
 None
 
@@ -55,7 +55,7 @@ This item is not scored
 
 Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.0057333)
 
-### Scoring
+### Materials Needed
 
 [Supplement 1](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement1.pdf) and stopwatch
 
@@ -82,7 +82,7 @@ Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.00573
 
 ## 3. Verbal List Learning Test
 
-### Scoring
+### Materials Needed
 
 None. 
 
@@ -115,7 +115,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 
 ## 4. Figure Copy 
 
-### Scoring
+### Materials Needed
 
 [Supplement 2](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement2.pdf) and stopwatch
 
@@ -189,7 +189,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 
 ## 5. Animal Fluency
 
-### Scoring
+### Materials Needed
 
 [Supplement 3](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement3.pdf) and stopwatch
 
@@ -212,7 +212,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 
 ## 6. Lexical Fluency 
 
-### Scoring
+### Materials Needed
 
 [Supplement 3](https://github.com/begavett/CoCA/blob/master/Supplements/Supplement3.pdf) and stopwatch
 
