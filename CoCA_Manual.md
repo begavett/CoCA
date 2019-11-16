@@ -131,7 +131,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
   - 1, 0.5, or 0 points for each accuracy component and 1 or 0 points for each placement component described below
   - Maximum of 9 points for accuracy and 9 points for placement for a total of 18 points for the test.
 - Component
-  1. Outer rectangle
+  \1. Outer rectangle
   
     - Accuracy
     
@@ -140,7 +140,8 @@ At the end of the test: *Try and keep these words in mind because you may be ask
       - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); angles formed are approximately 90 degrees; width of rectangle is obviously longer than height
     
     - Placement: reasonably close to center of blank space provided, not rotated more than 15 degrees
-  2. Inner plus
+  
+  \2. Inner plus
     
     - Accuracy
     
@@ -149,7 +150,8 @@ At the end of the test: *Try and keep these words in mind because you may be ask
       - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other;
     
     - Placement: lines should approximately bisect all four sides of the rectangles; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner diagonals approximately at the point of intersection of inner diagonals
-  3. Inner diagonals
+  
+  \3. Inner diagonals
     
     - Accuracy
         
@@ -159,7 +161,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
     
     - Placement: ends of lines should meet corners of the rectangle without significant overlap or measurable distance between the ends of the lines and corners; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner plus approximately at the point of intersection of inner plus 
   
-  4. Concentric rectangles
+  \4. Concentric rectangles
     
     - Accuracy
       
@@ -169,7 +171,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
     
     - Placement: placed above the outer rectangle on the left side; the base of the concentric rectangles touches the top left horizontal segment of the outer rectangle; not rotated more than 15 degrees. The right vertical segment of the inner concentric rectangle is roughly aligned with the right edge of the inner triangle.
   
-  5. Hoops
+  \5. Hoops
     
     - Accuracy
       
@@ -179,7 +181,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
     
     - Placement: placed on the outside of left vertical side of the rectangle; hoops are placed from the point of horizontal bisection of the height of the outer rectangle to the base of the rectangle
   
-  6. Inner triangle
+  \6. Inner triangle
     
     - Accuracy
       
@@ -189,7 +191,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
     
     - Placement: vertical side of triangle touches or almost touches left inner top and bottom diagonals; vertex of triangle touches or almost touches the point of bisection of the left vertical side of rectangle
   
-  7. Inner vertical lines
+  \7. Inner vertical lines
     
     - Accuracy
       
@@ -199,7 +201,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
     
     - Placement: in appropriate segment (upper half of top right quadrant); touching the top right horizontal side of the outer rectangle and the right upper diagonal
   
-  8. Inner circles
+  \8. Inner circles
     
     - Accuracy
       
@@ -209,7 +211,7 @@ At the end of the test: *Try and keep these words in mind because you may be ask
     
     - Placement: in appropriate segment (upper half of bottom right quadrant)
   
-  9. Ramparts
+  \9. Ramparts
     
     - Accuracy
       
