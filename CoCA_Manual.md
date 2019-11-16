@@ -133,13 +133,13 @@ At the end of the test: *Try and keep these words in mind because you may be ask
 - Component
   1. Outer rectangle
     - Accuracy
-        - 0.5 pt: not accurately drawn but resembles a rectangle even if lines are wavy and not straight. Rectangle may be much smaller or larger than that of the actual figure. 
-        - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); angles formed are approximately 90 degrees; width of rectangle is obviously longer than height
+      - 0.5 pt: not accurately drawn but resembles a rectangle even if lines are wavy and not straight. Rectangle may be much smaller or larger than that of the actual figure. 
+      - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); angles formed are approximately 90 degrees; width of rectangle is obviously longer than height
     - Placement: reasonably close to center of blank space provided, not rotated more than 15 degrees 
   2. Inner plus
     - Accuracy
-        - 0.5 pt: not accurately drawn but resembles a plus within the rectangle even if lines are wavy, not straight, and do not bisect each other or touch the outer rectangle.
-        - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other;
+      - 0.5 pt: not accurately drawn but resembles a plus within the rectangle even if lines are wavy, not straight, and do not bisect each other or touch the outer rectangle.
+      - 1 pt: all four lines are present; lines are approximately straight (slight waves and breaks are acceptable); should approximately bisect each other;
     - Placement: lines should approximately bisect all four sides of the rectangles; should touch outer rectangle, or not end before or extend outer rectangle by more than 1/4 inch; lines should intersect the inner diagonals approximately at the point of intersection of inner diagonals 
   3. Inner diagonals
     - Accuracy
