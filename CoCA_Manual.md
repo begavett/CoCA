@@ -414,7 +414,9 @@ If administering both Written and Oral versions, administer the written version 
  
 *Look at the next symbol* (point to the third symbol on Sample). *I look at this symbol, then look at the key. The symbol matches the number 9. So I go ahead and put that in the empty box below the symbol.* (write 9 below the third symbol on the Sample)
 
-*Now, I want to you to fill in the boxes until this heavily shaded line.*
+*Now, I want to you to fill in the boxes until this heavily shaded line. Go ahead.*
+
+Allow examinee to fill in practice items. Make corrections if necessary.
 
 *Now, I am going to give you 30 seconds to fill in as many boxes as you can. Begin here* (point) *and fill in as many boxes as possible, without skipping any. When you finish one row move on to the next row. Continue working until I ask you to stop. Ready? Go!*
 
