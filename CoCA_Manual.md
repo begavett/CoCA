@@ -61,7 +61,7 @@ Adapted from [Zhao et al., 2013](https://dx.doi.org/10.1371%2Fjournal.pone.00573
 
 ### Instructions
 
-*Here* (point to stimulus), *you see numbers in circles and squares. I want you to draw a line from 1 in the square to the 2 in the circle to the 3 in the square* (keep pointing) *and just like that alternating between square and circle in ascending order of the numbers till you reach the end here* (point). *You will have two minutes. Ready? Go!*
+*Here* (point to stimulus), *you see numbers in circles and squares. I want you to draw a line from 1 in the square to the 2 in the circle to the 3 in the square* (keep pointing) *and just like that alternating between square and circle in ascending order of the numbers until you reach the end here* (point). *You will have two minutes. Ready? Go!*
 
 ![Shape Trail Test](Images/STT.png "Shape Trail Test")
 
