@@ -422,7 +422,7 @@ Allow examinee to fill in practice items. Make corrections if necessary.
 
 ### Oral Version
 
-*Now, we are going to do something the same thing a little differently. I want you verbally state the numbers that match the presented symbols.*
+*Now, we are going to do the same thing a little differently. I want you verbally state the numbers that match the presented symbols.*
 
 *For example, look at the first symbol* (point to first symbol on Sample). *I look at this symbol, then look at the key. The symbol matches the number 3. So I want you to say 3.*
 
